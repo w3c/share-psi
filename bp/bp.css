@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(255,201,0);
+  font-family: sans-serif;
+}
+
+a, h1, h2, h3, th {color:rgb(0,90,156); font-weight:normal}
+h4, h5, h6 { color:rgb(239, 124,0)}
+
+div#wrapper {
+  max-width:56em;
+  margin: 0 auto;
+  border-left: thick solid rgb(249, 178,51);
+  border-right: thick solid rgb(249, 178,51);
+  border-radius: 0.2em;
+}
+
+header {
+  background-color: white;
+  padding: 0.2em 1em;
+}
+
+main {
+  background-color: white;
+  display:block;
+  padding: 1em;
+  margin-bottom: 1em
+}
+
+main p, main li, figcaption  {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+p.autoId {font-size:small; text-align:right; font-style:italic}
+
+p.cc {font-size:smaller}
+
+em.rfc2119 {
+  text-transform: uppercase;
+  color:rgb(239, 124,0);
+  font-style:normal;
+  font-weight:bold;
+}
+
+  nav#bpOptions {
+    padding:0.2em;
+  }
+
+  nav#bpOptions label {
+    margin-right: 1.5em;
+    white-space: nowrap;
+    display:block;
+    float:left;
+  }
+
+  nav#bpOptions label input {
+  margin-right:.5em;
+  }
+
+  nav#bpOptions p#iconExpl {
+    clear:left;
+    font-style:italic;
+    font-size: smaller;
+    margin-left: 0.3em;
+  }

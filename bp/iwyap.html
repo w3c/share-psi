@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-gb" xml:lang="en-gb">
+  <head>
+  <meta charset="utf-8" />
+    <title>Share-PSI Best Practice: Identify what you already publish</title>
+    <meta name="description" content="An inventory of already published information is useful for planning." />
+    <meta name="viewport" content="width=device-width" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,500italic,400italic,700,700italic,800,800italic,900,900italic,300italic,300,100italic,100&amp;subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+  <link href="bp.css" rel="stylesheet" />
+  </head>
+<body>
+<div id="wrapper">
+
+<header>
+  <img src="http://www.w3.org/2013/share-psi/logo/share_psi_logo_horz_RGB.svg" width="354" height="122" alt="Share-PSI 2.0 logo" />
+  <h1 style="margin-top:0">Best Practice: Identify what you already publish</h1>
+  <h2>Draft: 12 October 2015</h2>
+
+<dl>
+  <dt>This version</dt>
+  <dd><a href="http://www.w3.org/2013/share-psi/bp/iwyap-20151012/">http://www.w3.org/2013/share-psi/bp/iwyap-20151012/</a></dd>
+  <dt>Latest version</dt>
+  <dd><a href="http://www.w3.org/2013/share-psi/bp/iwyap/">http://www.w3.org/2013/share-psi/bp/iwyap/</a></dd>
+</dl>
+
+<p>This is one of a <a href="/2013/share-psi/bp/#bps">set of Best Practices</a> developed by the <a href="http://www.w3.org/2013/share-psi/">Share-PSI 2.0 Thematic Network</a>.</p>
+<p class="cc"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img style="float:right; margin-left:0.2em" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<span property="http://purl.org/dc/terms/title">Share-PSI Best Practice: Identify what you already publish</span> 
+by <a href="http://www.w3.org/2013/share-psi/" property="http://creativecommons.org/ns#attributionName" rel="cc:attributionURL">Share-PSI 2.0</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<hr />
+
+</header>
+
+<main>
+<section id="outline"><h2>Outline</h2>
+<p>Organisations might find deciding what information resources should be made available for re-use in machine-readable formats challenging. Information already published by organisations represent a good candidate for datasets to be published as open data. Therefore organisations should create and maintain inventory of already published information. However the amount of such information is often too large to be catalogued manually. Therefore automated scraping techniques should be applied to create inventories of already published information.</p>
+</section>
+
+
+<section id="ms"><h2>Management Summary</h2>
+
+<section id="challenge"><h3>Challenge</h3>
+<p>Identifying what information should be made available in machine-readable formats for re-use might be challenging due to the lack of knowledge what information is already published and the amount of information might be too large to be catalogued manually.</p>
+</section>
+
+<section id="solution"><h3>Solution</h3>
+<p>An inventory or catalogue of already published data and information assets should be developed and maintained.
+This may be achieved manually or by using automated scraping techniques to gather details of information assets that are already published on the Web site.</p>
+</section></section>
+
+<section id="bpi"><h2>Best Practice Identification</h2>
+<section id="why"><h3>Why is this a Best Practice? What’s the impact of the Best Practice</h3>
+<p>An inventory of already published information helps organisations to understand what information they provide and what assets they can make more re-usable. Understanding of what datasets an organisation can possibly publish as open data is essential for selecting datasets for publication.
+Techniques such as site scraping allow organisations to periodically audit their Web site in order to assess what information assets they publish and in what form (open, closed, etc.).</p>
+</section>
+
+<section id="links"><h3>Links to the Revised PSI Directive</h3><p><a href="/2013/share-psi/elements#selection">Selection</a></p></section>
+
+<section id="whyNeed"><h3>Why is there a need for this Best Practice?</h3>
+<p>Information is frequently published under a distributed process using a content management system. creating an inventory of already published information assets might be missing and it might be difficult to create it manually. Therefore organisations might find it challenging to know where to start when deciding what information resources should be made available for re-use in machine-readable formats.</p>
+</section>
+
+<section id="whatNeed"><h3>What do you need for this Best Practice?</h3>
+<p>A simple spreadsheet might serve as an inventory of the data/information assets, but depending on the volume of information and the requirements of the organisation, cataloguing solutions such as <a href="http://ckan.org/">CKAN</a> might be deployed.</p>
+<p>Scraping software/libraries are needed, such as <a href="http://scrapy.org/">Scrapy</a>. Metadata gathered using the scraping software can be used as facets for sorting and grouping the links. Faceted browsing features are provided by application such as Exhibit. If security is the concern, the scraper should be run on an isolated machine and only the headers should be processed.</p>
+<p>Whether created manually or by automated means, the inventory should contain at least basic metadata about the data/information assets like the title, location, current format and terms of use. Additional metadata like the responsible person/unit, target data format or update frequency might help to manage the future publication process and it helps to make more precise estimates of the effort and costs needed to publish and maintain the open datasets.</p>
+</section></section>
+
+<section id="applicability"><h2>Applicability by other Member States</h2>
+<p>The approach is applicable to any Member State.
+</section>
+
+<section id="contact"><h2>Contact Info</h2>
+<p><a href="mailto:peter.winstanley@gov.scot">Dr Peter Winstanley</a>, <a href="http://www.gov.scot ">The Scottish Government</a>.</p></section>
+
+<section id="related"><h2>Related Best Practices</h2>
+<ul><li><a href="/2013/share-psi/bp/pomd/">Publish overview of managed data</a></li>
+<li><a href="/2013/share-psi/bp/cod/">Categorise openness of data</a></li>
+<li><a href="/2013/share-psi/bp/dc/">Dataset Criteria</a></li></ul>
+
+</main>
+</div>
+<p class="autoId">$Id: Overview.html,v 1.4 2015/10/22 13:22:28 phila Exp $</p>
+</body></html>
