@@ -47,5 +47,5 @@ These are just examples of factors to consider when establishing a more complete
 http://www.w3.org/2013/share-psi/workshop/samos/report#difi
 
 # Contact Info
-Original Author:
+Original Author:  
 Editor: Johann Höchtl <johann.hoechtl@donau-uni.ac.at>
