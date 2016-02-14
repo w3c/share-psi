@@ -17,13 +17,15 @@
 <header>
   <img src="http://www.w3.org/2013/share-psi/logo/share_psi_logo_horz_RGB.svg" width="354" height="122" alt="Share-PSI 2.0 logo" />
   <h1 style="margin-top:0">Best Practice: Develop a federation tool for open data portals</h1>
-  <h2>Draft: 5 October 2015</h2>
+  <h2>Draft: 11 February 2016</h2>
 
 <dl>
   <dt>This version</dt>
-  <dd><a href="http://www.w3.org/2013/share-psi/bp/ft-20151005/">http://www.w3.org/2013/share-psi/bp/ft-20151005/</a></dd>
+  <dd><a href="http://www.w3.org/2013/share-psi/bp/ft-20160211/">http://www.w3.org/2013/share-psi/bp/ft-20160211/</a></dd>
   <dt>Latest version</dt>
   <dd><a href="http://www.w3.org/2013/share-psi/bp/ft/">http://www.w3.org/2013/share-psi/bp/ft/</a></dd>
+  <dt>Previous version</dt>
+  <dd><a href="http://www.w3.org/2013/share-psi/bp/ft-20151005/">http://www.w3.org/2013/share-psi/bp/ft-20151005/</a></dd>
 </dl>
 
 <p>This is one of a <a href="/2013/share-psi/bp/#bps">set of Best Practices</a> developed by the <a href="http://www.w3.org/2013/share-psi/">Share-PSI 2.0 Thematic Network</a>.</p>
@@ -37,63 +39,97 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 
 <main>
 <section id="outline"><h2>Outline</h2>
-<p>The Spanish National Catalogue, <a href="http://datos.gob.es/">datos.gob.es</a>, has developed a federation tool for open data portals that enables automatic publication of the metadata describing the data sets published by each public entity. A global index of reusable public information is thus created and can used to locate reusable data in datos.gob.es without the need to know or find the Web site of the public entity holding the data.</p>
+<p>The Spanish National Catalogue, <a href="http://datos.gob.es/">datos.gob.es</a>, has developed a federation tool for open data portals that enables automatic publication of the metadata corresponding to the data sets published on the websites of each public entity. A global index of reusable public information is thus created and can be accessed by companies or any user to locate reusable data in datos.gob.es without the need to know and find the website of the public entity holding the data in which re-users are interested in.</p>
 </section>
 
+<section id="links"><h3>Links to the Revised PSI Directive</h3>
+<p><a href="/2013/share-psi/bp/policy/">Policies and Legislation</a>, 
+<a href="/2013/share-psi/bp/platforms/">Platforms</a>,
+<a href="/2013/share-psi/bp/charging/">Charging</a>,
+<a href="/2013/share-psi/bp/techniques">Techniques</a>,
+<a href="/2013/share-psi/bp/organisation/">Organisation</a>,
+<a href="/2013/share-psi/bp/formats/">Formats</a>,
+<a href="/2013/share-psi/bp/reuse/">Reuse</a>,
+<a href="/2013/share-psi/bp/persistence/">Persistence</a>,
+<a href="/2013/share-psi/bp/quality/">Quality</a>,
+<a href="/2013/share-psi/bp/documentation/">Documentation</a>.</p></section>
 
-<section id="ms"><h2>Management Summary</h2>
+
 <section id="challenge"><h3>Challenge</h3>
-<p>Public entities are creating their own open data spaces in the web. These different spaces are unconnected. To avoid that reuse agents have to look for the data all over the web, we needed a single point where all the national public sector information can be permanently and automatically referenced</p>
+<p>More and more public entities are creating their own open data spaces in the web. These different spaces are unconnected. To avoid that reuse agents have to look for the data all over the web, we needed a single point where all the Spanish public sector information can be permanently and automatically referenced at the National Catalogue of Reusable Public Information: <a href="http://datos.gob.es">datos.gob.es</a></p>
 </section>
 
 <section id="solution"><h3>Solution</h3>
-<p>The catalogue federation tool enables aggregation and automatic publication of the metadata corresponding to the data sets published on websites of each public entity and also at the National Catalogue datos.gob.es in a consistent way. A global index of reusable public information is thus created and can be accessed. This solution enables the existence of a global reuse scenario that provides greater visibility for the public data made available by the three levels of government (central, regional, local and universities), as well as a general overview of how public sector information is being reused in Spain.</p>
-</section></section>
+<p>The catalogue federation tool enables aggregation and automatic publication of the metadata corresponding to the data sets published in the own catalogues on the websites of each public entity and also at the National Catalogue datos.gob.es in a consistent way. A global index of reusable public information is thus created and can be accessed. The tool developed in PHP as an extension of the National Catalogue data portal datos.gob.es ensures maximum coherence between the information being made available by the public entities in their own catalogues and the National Catalogue itself.</p>
+<p>This solution enables the existence of a global reuse scenario that provides greater visibility for the public data made available by the three levels of government (central, regional, local and universities), as well as a general overview of how public sector information is being reused in Spain.</p>
+</section>
 
-<section id="bpi"><h2>Best Practice Identification</h2>
 <section id="why"><h3>Why is this a Best Practice? What’s the impact of the Best Practice</h3><ul>
-<li>Ability to interconnect open data initiatives at a single access point.</li>
-<li>Enrichment of datos.gob.es through the large-scale upload of meta-information.</li>
-<li>Maximum consistency between the information being made available by the public entities in their own catalogues and the information referenced at datos.gob.es.</li> 
-<li>Reduced workload for public employees, no need to upload information twice.</li>
-<li>Existence of a global scenario that fosters the extraction of general conclusions and a general overview of the PSI situation in Spain.</li>
-<li>Standardisation and data integrity, automated publication and constant updating of published information, visibility of the data sets.</li>
-<li>Helping to accomplish PSI Directive to each entity.</li>
-<li>Fostering development of new digital products and services.</li>
-<li>Large-scale upload and regular updating of the information published on <a href="http://datos.gob.es/">datos.gob.es</a></li></ul>
+<li>The ability to interconnect open data initiatives at a single access point - datos.gob.es - that can be accessed by the reuser or any member of the public via a search tool to locate reusable information without needing to know and find the website of the public entity holding the data of interest to them, strongly contributes to the efficiency of the research processes.</li>
+<li>It facilitates enrichment of datos.gob.es through the large-scale upload of meta-information associated with the data sets made available by public entities for reuse.</li>
+<li>Provides maximum consistency between the information being made available by the public entities in their own catalogues and the information referenced at datos.gob.es.</p>
+<li>Reduced workload for public employees in their task of publishing the data sets subject to reuse by avoiding the need to upload information twice, both to the internal catalogue and datos.gob.es.</li>
+<li>It enables the existence of a global scenario that fosters the extraction of general conclusions and a general overview of the PSI situation in Spain, facilitating the use of this information to extract meaningful and actionable knowledge regarding the open data landscape.</li>
+<li>The federator - developed according to guidelines set down by experts in the field - ensures standardisation and data integrity, and enables automated publication and constant updating of published information, while also enhancing the visibility of the data sets made available by the various public entities.o get the most out of scarce public resources that are available in the country.</li>
+<li>Facilitates reuse by infomediary sector in Spain. Datasets are displayed in a clear and structured fashion on a user-friendly interface for reuse.</li>
+<li>Ensures the consistent growth of the Spanish Open Data Catalogue by means of a set of guidelines to use standard metadata structure in data sets following W3C recommendations.</p>
+<li>Facilitates the task of public employees avoiding to publish reusable information in two different places.</li></ul>
 </section>
 
-<section id="links"><h3>Links to the Revised PSI Directive</h3><p><a href="/2013/share-psi/elements#policy">Policies and Legislation</a>, <a href="/2013/share-psi/elements#platforms">Platforms</a></p></section>
+<section id="implement"><h2>How do I implement this Best Practice?</h2>
+<p>To implement this best practice you will need some elements, among them:</p><ul>
+<li>A legal and technical framework ensuring that each public entity will federate their datasets at the national data portal in a standard manner.</li>
+<li>A coordination structure between the different administrative levels (State, regional, Local) to agree the metadata considering the common needs of the group directly involved in using the federation tool to assure the further collaboration using the tool that means for the success on the initiative.</li>
+<li>A data portal as a single point where federate all published datasets of the different public entities. The federation tool is a module PHP open-source programming language that acts as an extension of the data portal, which was developed using Drupal 7.</li>
+<li>An agreed Metadata scheme following W3C recommendation should be available in a DCAT/RDF or ATOM format feed which must be accessible at a URI on the website of the entity origin of the data.</li>
+<li>Some complementary web services and widgets that enable the meta-information published in the catalogue to be obtained and processed according to various invocation parameters and various response formats (ATOM/XML, DCAT/RDF and JSON) to be referenced on the entity of the data website.</li></ul>
+</section>
 
-<section id="whyNeed"><h3>Why is there a need for this Best Practice?</h3>
+
+<section id="where">
+<h2>Where has this best practice been implemented?</h2>
+
+<p>This best practice could be implemented when different open data portals exists in order to provide one single point where to locate every datasets which are contained in the aforementioned portals. The drawing up of technical standards to establish common conditions for: the selection, identification, description, conditions of use and making available of data sets - the Interoperability Technical Standard on the Reuse of PSI (hereinafter, ITS-PSI), which define a DCAT profile for the public information catalogues at the various government and agency levels in Spain, and closely linked to the DCAT Application profile for data portals in Europe.</p>
+<p>The federation tool - integrated as an extra module on the datos.gob.es portal - accesses the metadata of each entity and updates the meta-information available at datos.gob.es according to a pre-established schedule. This ensures effective federation with datos.gob.es of the open data catalogues of the public entities for example with the <a href="http://www.europeandataportal.eu/">European Data Portal</a>, which seeks to facilitate the location and reuse of data from national, regional and local administration services throughout Europe.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Implementation</th>
+      <th>Contact Point</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spain</td>
+      <td><a href="http://datos.gob.es/">The Spanish National Catalogue</a></td>
+      <td><a href="mailto:soporte@datos.gob.es">soporte@datos.gob.es</a></td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+<section id="references">
+<h2>References</h2>
 <ul>
-<li>Get the most out of scarce public resources.</li>
-<li>Facilitate reuse as datasets are displayed in a clear and structured fashion on a user-friendly interface for reuse.</li>
-<li>Get guidelines to use standard metadata structure ensuring consistent growth of the central national Open Data Catalogue.</li> 
-<li>Facilitate public employees avoiding to publish information in two different places.</li></ul>
-</section>
+  <li>Samos workshop: <a href="/2013/share-psi/wiki/images/c/cc/Share-PSI_FederationTool_v03_en_paper_SCG.pdf">A Federation Tool for Open Data Portals</a> Mª Dolores Hernández Maroto</li>
+  <li>Berlin Workshop: <a href="/2013/share-psi/wiki/images/6/65/Share-PSI_Berlin_Workshop_DCAT-AP_session_proposal_v0.03.pdf">Implementing The DCAT Application Profile For Data Portals In Europe</a>, Nikolaos Loutas, Makx Dekkers</li>
+  <li>Berlin Workshop: <a href="/2013/share-psi/wiki/images/0/0e/Pilot_Description_(Extract).pdf">Estonian Metadata Reference Architecture</a> Hannes Kiivet</li>
+  <li>Berlin Workshop: <a href="https://www.w3.org/2013/share-psi/workshop/berlin/XOEV">German XML for public administration “XÖV” tool chain in action</a></li>
+</ul>
 
-<section id="whatNeed"><h3>What do you need for this Best Practice?</h3>
-<ul>
-  <li>Legal and technical framework ensuring datasets federation at the national data portal in a standard manner.</li>
-  <li>Coordination structure between the different administrative levels (State, Regional, Local).</li>
-  <li>A data portal as a single point of reference.</li>
-  <li>An agreed Metadata scheme such as <a href="https://joinup.ec.europa.eu/asset/dcat_application_profile/description">DCAT-AP</a>.</li>
-  <li>Complementary Web services and widgets that enable meta-information to be obtained and processed according to various invocation parameters and various response formats.</li></ul>
-
-</section></section>
-
-<section id="applicability"><h2>Applicability by other Member States</h2>
-<p>The approach is applicable to any Member State. The following components of this best practice could be easily re-used:</p><ul>
-<li>technical standards to establish common conditions for: the selection, identification, description, conditions of use and making available of data sets; these elements are closely linked to the <a href="https://joinup.ec.europa.eu/asset/dcat_application_profile/description">DCAT Application Profile</a> for data portals in Europe.</li>
-<li>The federation tool - integrated as an extra module on the datos.gob.es portal ensures effective federation with the open data catalogues of the public entities and the European Data Portal that facilitates the location and re-use of data from national, regional and local administration services throughout Europe.</li></ul>
-</section>
 
 <section id="contact"><h2>Contact Info</h2>
 <p><a href="mailto:soporte@datos.gob.es">soporte@datos.gob.es</a> or via <a href="http://administracionelectronica.gob.es/general/verContacto.htm"</a>Dirección de Tecnologías de la Información y las Comunicaciones</a>.</p></section>
 
 <section id="related"><h2>Related Best Practices</h2>
-<p>@@TBD@@</p>
+<ul>
+<li><a href="/2013/share-psi/bp/cas/">Develop and Implement a Cross Agency Strategy</a></li>
+<li><a href="/2013/share-psi/bp/odpp/">Develop an Open Data Publication Plan</a></li>
+<li><a href="/2013/share-psi/bp/portal/">Establish Open Government Portal for data sharing</a></li>
+</ul>
+
 </section>
 
 </main>
