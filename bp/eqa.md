@@ -1,7 +1,7 @@
 # Best Practice: Enable Quality Assessment of Open Data
 
 ## Outline
-Data Quality DQ is primarily perceived to be a subjective term: What suffices, is “good enough” for one person, might be inferior to another. “Suffice” here means to be suitable to fulfil a certain need in a process. However beside the subjective aspect of DQ, there is an objective view on DQ which can be measured and help to establish provable and comprehensible metrics on DQ. The adherence to standards, enforced by tools which in turn are embedded in and used by processes, will help to raise DQ. In order to sustainably raise DQ, measures need to be in place all along the data pipeline and not only at the providing front end.
+Data Quality DQ is primarily perceived to be a subjective term: What suffices, is “good enough” for one person, might be inferior to another. “Suffice” here means to be suitable to fulfil a certain need in a process. However beside the subjective aspect of DQ, there is an objective view on DQ which can be measured and help to establish provable and comprehensible metrics on DQ. The adherence to standards, enforced by tools which in turn are embedded in and used by processes, will help to raise DQ. In order to sustainably raise DQ, measures need to be in place all along the data pipeline and not only at the providing front end. DQ improvement has to be considered as a process rather than a one-time measure.
 
 ## Links to the Revised PSI Directive
 [Quality](https://www.w3.org/2013/share-psi/bp/quality/)
@@ -22,7 +22,7 @@ The proliferation of open data as a mean to foster open innovation processes tow
  * Relevance: Does the data include an appropriate amount of  data?
  * Timeliness: Is the data representing the actual situation and is it published soon enough?
 
-DQ improvement measures have to be in place all along the [](open) data life cycle](https://www.w3.org/2013/share-psi/workshop/lisbon/OpenDataLifeCycleBarCamp), otherwise quality measures will be perceived to be an additional burden, causing efforts and costing money.
+DQ improvement measures have to be in place all along the [](open) data life cycle](https://www.w3.org/2013/share-psi/workshop/lisbon/OpenDataLifeCycleBarCamp), otherwise quality measures will be perceived to be an additional burden, causing efforts and costing money. Also note, that the Open Data Life Cycle is - a cycle which suggest to set up data improvement measures as a process rather than a one time measure.
 
 ## Why is this a best practice?
 Lacking DQ will reduce data users trust and prevent the unfolding of an open data market. Investment into DQ will pay back internally to the administration, as the potential for interoperable  data services will be risen as well as externally, as for data users it will become more easy to blend together data sets of diverse sources to create added value services.
@@ -30,7 +30,8 @@ Lacking DQ will reduce data users trust and prevent the unfolding of an open dat
 ## How to implement this Best Practice?
 Implementation of this BP requires addressing the problem from a technical as well as organisational perspective.
 
-**Technically**, DQ can be risen by adhering to conventions, norms and standards. However, the adoption of conventions, norms and standards requires governance at various levels:
+**Technically**, DQ can be risen by adhering to conventions, norms and standards. However, the adoption of conventions, norms and standards requires governance at various levels. Set-up of governance structures is typically in the responsibility of the CIO or someone in charge with comparable powers and duties.
+
 * It's within the CIOs responsibility to provide guidance on how to structure and implement ICT-systems, which use common and agreed conventions, norms and standards.
 * The CIO should be responsible to identify semantically equivalent data entities, describe standards according to which these data entities should be modeled and monitor the adherence to these standards.
 
@@ -85,8 +86,9 @@ Standards on [eInvoicing](http://ec.europa.eu/DocsRoom/documents/10472/attachmen
 * https://www.w3.org/2013/share-psi/wiki/Timisoara/Scribe#How_good_is_good_enough.3F_A_common_language_for_quality.3F  
 
 # Contact Info
-Original Author(s): Johann Höchtl <johann.hoechtl@donau-uni.ac.at>  
-Valentina Jannev <valentina.janev@institutepupin.com>
+Original Author(s): Johann Höchtl <johann.hoechtl@donau-uni.ac.at>, Valentina Janev <valentina.janev@institutepupin.com>
 
+Contributors: Muriel Foulonneau <muriel.foulonneau@list.lu>,
+Lorenzo Canova <lorenzo.cnv@gmail.com>
 
-Editors: Johann Höchtl
+Editors: Valentina Janev, Johann Höchtl
