@@ -22,7 +22,7 @@ The proliferation of open data as a mean to foster open innovation processes tow
  * Relevance: Does the data include an appropriate amount of  data?
  * Timeliness: Is the data representing the actual situation and is it published soon enough?
 
-DQ improvement measures have to be in place all along the [](open) data life cycle](https://www.w3.org/2013/share-psi/workshop/lisbon/OpenDataLifeCycleBarCamp), otherwise quality measures will be perceived to be an additional burden, causing efforts and costing money. Also note, that the Open Data Life Cycle is - a cycle which suggest to set up data improvement measures as a process rather than a one time measure.
+DQ improvement measures have to be in place all along the [(open) data life cycle](https://www.w3.org/2013/share-psi/workshop/lisbon/OpenDataLifeCycleBarCamp), otherwise quality measures will be perceived to be an additional burden, causing efforts and costing money. Also note, that the Open Data Life Cycle is - a cycle which suggest to set up data improvement measures as a process rather than a one time measure.
 
 ## Why is this a best practice?
 Lacking DQ will reduce data users trust and prevent the unfolding of an open data market. Investment into DQ will pay back internally to the administration, as the potential for interoperable  data services will be risen as well as externally, as for data users it will become more easy to blend together data sets of diverse sources to create added value services.
