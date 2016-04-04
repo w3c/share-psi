@@ -21,11 +21,11 @@
 
 <dl>
   <dt>This version</dt>
-    <dd><a href="http://www.w3.org/2013/share-psi/bp/iwyap-20160113/">http://www.w3.org/2013/share-psi/bp/iwyap-20160113/</a></dd>
-    <dt>Latest version</dt>
-    <dd><a href="http://www.w3.org/2013/share-psi/bp/iwyap/">http://www.w3.org/2013/share-psi/bp/iwyap/</a></dd>
-    <dt>Previous version</dt>
-    <dd><a href="http://www.w3.org/2013/share-psi/bp/iwyap-20151012/">http://www.w3.org/2013/share-psi/bp/iwyap-20151012/</a></dd>
+  <dd><a href="/2013/share-psi/bp/iwyap-20160404/">http://www.w3.org/2013/share-psi/bp/iwyap-20160404/</a></dd>
+  <dt>Latest version</dt>
+  <dd><a href="/2013/share-psi/bp/iwyap/">http://www.w3.org/2013/share-psi/bp/iwyap/</a></dd>
+  <dt>Previous Version</dt>
+  <dd><a href="/2013/share-psi/bp/iwyap-20151012/">http://www.w3.org/2013/share-psi/bp/iwyap-20151012/</a></dd>
 </dl>
 
 <p>This is one of a <a href="/2013/share-psi/bp/#bps">set of Best Practices</a> developed by the <a href="http://www.w3.org/2013/share-psi/">Share-PSI 2.0 Thematic Network</a>.</p>
@@ -38,75 +38,78 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 </header>
 
 <main>
- <section id="outline"><h2>Outline</h2>
-  <p>Organisations might find deciding what information resources should be made available for re-use in machine-readable formats challenging. Information already published by organisations represent a good candidate for datasets to be published as open data. Therefore organisations should create and maintain inventory of already published information. However the amount of such information is often too large to be catalogued manually. Therefore automated scraping techniques should be applied to create inventories of already published information.</p>
- </section>
+<section id="outline"><h2>Outline</h2>
+<p>Organisations might find deciding what information resources should be made available for re-use in machine-readable formats challenging. Information already published by organisations represent a good candidate for datasets to be published as open data. Therefore organisations should create and maintain inventory of already published information. However the amount of such information is often too large to be catalogued manually. Therefore automated scraping techniques should be applied to create inventories of already published information.</p>
+</section>
 
- <section id="psilinks"><h2>Links to the Revised PSI Directive</h2>
-  <p><a href="/2013/share-psi/elements#selection">Selection</a></p>
- </section>
+<section id="links"><h3>Links to the Revised PSI Directive</h3><p><a href="/2013/share-psi/bp/selection/">Selection</a></p></section>
 
- <section id="challenge"><h2>Challenge</h2>
-  <p>Where to start when deciding what information resources should be made available for re-use in machine-readable formats?</p>
-  <p>Identifying what information should be made available in machine-readable formats for re-use might be challenging due to the lack of knowledge what information is already published and the amount of information might be too large to be catalogued manually.</p>
- </section>
+<section id="challenge"><h3>Challenge</h3>
+<p>Where to start when deciding what information resources should be made available for re-use in machine-readable formats?</p>
+<p>Identifying what information should be made available in machine-readable formats for re-use might be challenging due to the lack of knowledge what information is already published and the amount of information might be too large to be catalogued manually.</p>
+</section>
 
- <section id="solution"><h2>Solution</h2>
-  <p>An inventory or catalogue of already published data and information assets should be developed and maintained.
-     This may be achieved manually or by using automated scraping techniques to gather details of information assets that are already published on the Web site.</p>
- </section>
+<section id="solution"><h3>Solution</h3>
+<p>An inventory or catalogue of already published data and information assets should be developed and maintained. This may be achieved manually or by using automated scraping techniques to gather details of information assets that are already published on the Web site.</p>
+</section>
 
- <section id="why"><h2>Why is this a Best Practice?</h2>
-  <p>Information is frequently published under a distributed process using a content management system. Inventory of already published information assets might be missing and it might be difficult to create it manually. Therefore organisations might find it challenging to know where to start when deciding what information resources should be made available for re-use in machine-readable formats.</p>
-  <p>An inventory of already published information helps organisations to understand what information they provide and what assets they can make more re-usable. Understanding of what datasets an organisation can possibly publish as open data is essential for selecting datasets for publication.
-     Techniques such as site scraping allow organisations to periodically audit their Web site in order to assess what information assets they publish and in what form (open, closed, etc.).</p>
- </section>
+<section id="why"><h3>Why is this a Best Practice? What’s the impact of the Best Practice</h3>
+<p>Information is frequently published under a distributed process using a content management system. Inventory of already published information assets might be missing and it might be difficult to create it manually. Therefore organisations might find it challenging to know where to start when deciding what information resources should be made available for re-use in machine-readable formats.</p>
+<p>An inventory of already published information helps organisations to understand what information they provide and what assets they can make more re-usable. Understanding of what datasets an organisation can possibly publish as open data is essential for selecting datasets for publication. Techniques such as site scraping allow organisations to periodically audit their Web site in order to assess what information assets they publish and in what form (open, closed, etc.).</p>
+</section>
 
- <section id="implement"><h2>How do I implement this Best Practice?</h2>
-  <p>A simple spreadsheet might serve as an inventory of the data/information assets, but depending on the volume of information and the requirements of the organisation, cataloguing solutions such as <a href="http://ckan.org/">CKAN</a> might be deployed.</p>
-  <p>Scraping software/libraries are needed, such as <a href="http://scrapy.org/">Scrapy</a>. Metadata gathered using the scraping software can be used as facets for sorting and grouping the links. Faceted browsing features are provided by application such as Exhibit. If security is the concern, the scraper should be run on an isolated machine and only the headers should be processed.</p>
-  <p>Whether created manually or by automated means, the inventory should contain at least basic metadata about the data/information assets like the title, location, current format and terms of use. Additional metadata like the responsible person/unit, target data format or update frequency might help to manage the future publication process and it helps to make more precise estimates of the effort and costs needed to publish and maintain the open datasets.</p>
- </section>
- 
- <section id="where">
-  <h2>Where has this best practice been implemented?</h2>
-  <table>
+
+<section id="whyNeed"><h3>Why is there a need for this Best Practice?</h3>
+<p>Information is frequently published under a distributed process using a content management system. creating an inventory of already published information assets might be missing and it might be difficult to create it manually. Therefore organisations might find it challenging to know where to start when deciding what information resources should be made available for re-use in machine-readable formats.</p>
+</section>
+
+<section id="how"><h3>How do I implement this Best Practice?</h3>
+<p>A simple spreadsheet might serve as an inventory of the data/information assets, but depending on the volume of information and the requirements of the organisation, cataloguing solutions such as <a href="http://ckan.org/">CKAN</a> might be deployed.</p>
+<p>Scraping software/libraries are needed, such as <a href="http://scrapy.org/">Scrapy</a>. Metadata gathered using the scraping software can be used as facets for sorting and grouping the links. Faceted browsing features are provided by application such as Exhibit. If security is the concern, the scraper should be run on an isolated machine and only the headers should be processed.</p>
+<p>Whether created manually or by automated means, the inventory should contain at least basic metadata about the data/information assets like the title, location, current format and terms of use. Additional metadata like the responsible person/unit, target data format or update frequency might help to manage the future publication process and it helps to make more precise estimates of the effort and costs needed to publish and maintain the open datasets.</p>
+</section>
+
+  <section id="where">
+    <h2>Where has this best practice been implemented?</h2>
+    <table>
       <thead>
-       <tr>
-  <th>Country</th>
-  <th>Implementation</th>
-  <th>Contact Point</th>
-       </tr>
+  <tr>
+    <th>Country</th>
+    <th>Implementation</th>
+    <th>Contact Point</th>
+  </tr>
       </thead>
       <tbody>
-       <tr>
-  <td>Scotland</td>
-  <td>The Scottish Government</td>
-  <td><a href="mailto:peter.winstanley@gov.scot">Dr Peter Winstanley</a>, <a href="http://www.gov.scot ">The Scottish Government</a>.</td>
-       </tr>
+  <tr>
+    <td>Scotland</td>
+    <td>The Scottish Government</td>
+    <td><a href="mailto:peter.winstanley@gov.scot">Dr Peter Winstanley</a>, <a href="http://www.gov.scot">The Scottish Government</a>.</td>
+  </tr>
+<!--  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>-->
       </tbody>
-  </table>
- </section>
+    </table>
+  </section>
 
- <section id="references">
-  <h2>References</h2>
-  <ul>
-      <li><a href="https://www.w3.org/2013/share-psi/wiki/Best_Practices/Identifying_what_you_already_publish">Timisoara Workshop Story: Identifying what you already publish</a></li>
-      <li><a href="https://www.w3.org/2013/share-psi/wiki/Timisoara/Scribe/Site_scraping_techniques_to_identify_and_showcase_information_in_closed_formats">Timisoara Workshop Session: Site scraping techniques to identify and showcase information in closed formats</a></li>
-  </ul>
- </section>
+  <section id="references">
+    <h2>References</h2>
+<ul>
+  <li>Timisoara Workshop Session: <a href="/2013/share-psi/workshop/Timisoara/agenda#parallel1basic">Identifying what you already publish</a></li>
+  <li>Krems Workshop Session: <a href="/2013/share-psi/workshop/krems/papers/imcs">Extracting Structured Data from Unstructured Open Data</a></li>
+</ul>
+</section>
+<section id="contact"><h2>Contact Info</h2>
+<p><a href="mailto:peter.winstanley@gov.scot">Dr Peter Winstanley</a>, <a href="http://www.gov.scot ">The Scottish Government</a>.</p></section>
 
- <section id="contact"><h2>Contact Info</h2>
-  <p><a href="mailto:peter.winstanley@gov.scot">Dr Peter Winstanley</a>, <a href="http://www.gov.scot ">The Scottish Government</a>.</p></section>
-
- <section id="related"><h2>Related Best Practices</h2>
-  <ul>
-      <li><a href="/2013/share-psi/bp/pomd/">Publish overview of managed data</a></li>
-      <li><a href="/2013/share-psi/bp/cod/">Categorise openness of data</a></li>
-      <li><a href="/2013/share-psi/bp/dc/">Dataset Criteria</a></li>
-      <li><a href="/2013/share-psi/bp/odpp/">Develop an Open Data Publication Plan</a></li>
-  </ul>
- </section>
+<section id="related"><h2>Related Best Practices</h2>
+<ul><li><a href="/2013/share-psi/bp/pomd/">Publish overview of managed data</a></li>
+<li><a href="/2013/share-psi/bp/cod/">Categorise openness of data</a></li>
+<li><a href="/2013/share-psi/bp/dc/">Dataset Criteria</a></li>
+<li><a href="/2013/share-psi/bp/odpp/">Develop an Open Data Publication Plan</a></li></ul>
+</section>
 
 </main>
 </div>
