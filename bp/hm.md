@@ -47,7 +47,7 @@ These are just examples of factors to consider when establishing a more complete
 |---|---|---:|
 | Austria | [Wirkungsorientierte Steuerung](https://www.oeffentlicherdienst.gv.at/wirkungsorientierte_verwaltung/steuerung/index.html) | [ABTEILUNG III/9: WIRKUNGSCONTROLLINGSTELLE DES BUNDES, VERWALTUNGSINNOVATION](http://www.bka.gv.at/gfe/gfe_org.aspx?org=III/9) |
 | United Kingdom | [Performance UK](https://www.gov.uk/performance) |  |
-| Finland | [Government´s analysis, assessment and research activities Prime Minister´s office Finland](http://tietokayttoon.fi/en/frontpage) |  |
+| Finland | [Government´s analysis, assessment and research activities](http://tietokayttoon.fi/en/frontpage) | Prime Ministeŕs Office Finland |
 
 
 # References
