@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-gb" xml:lang="en-gb">
+  <head>
+  <meta charset="utf-8" />
+    <title>Share-PSI Best Practice: (Re)use federated tools</title>
+    <meta name="description" content="Different countries have developed federated/distributed tools for open data collection that enable automatic publication of the (meta)data corresponding to the data sets published on the websites of each public entity" />
+    <meta name="viewport" content="width=device-width" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,500italic,400italic,700,700italic,800,800italic,900,900italic,300italic,300,100italic,100&amp;subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+  <link href="bp.css" rel="stylesheet" />
+  </head>
+<body>
+<div id="wrapper">
+
+<header>
+  <img src="http://www.w3.org/2013/share-psi/logo/share_psi_logo_horz_RGB.svg" width="354" height="122" alt="Share-PSI 2.0 logo" />
+  <h1 style="margin-top:0">Best Practice: (Re)use federated tools</h1>
+  <h2>Draft: 25 April 2016</h2>
+
+<dl>
+  <dt>This version</dt>
+  <dd><a href="http://www.w3.org/2013/share-psi/bp/tools-20160425/">http://www.w3.org/2013/share-psi/bp/tools-20160425</a></dd>
+  <dt>Latest version</dt>
+  <dd><a href="http://www.w3.org/2013/share-psi/bp/tools/">http://www.w3.org/2013/share-psi/bp/tools/</a></dd>
+  <dt>Previous version</dt>
+  <dd>(none)</dd>
+</dl>
+
+<p>This is one of a <a href="/2013/share-psi/bp/#bps">set of Best Practices</a> developed by the <a href="http://www.w3.org/2013/share-psi/">Share-PSI 2.0 Thematic Network</a>.</p>
+<p class="cc"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img style="float:right; margin-left:0.2em" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<span property="http://purl.org/dc/terms/title">Share-PSI Best Practice: (Re)use federated tools</span> 
+by <a href="http://www.w3.org/2013/share-psi/" property="http://creativecommons.org/ns#attributionName" rel="cc:attributionURL">Share-PSI 2.0</a> 
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<hr />
+
+</header>
+
+<main>
+<section id="outline"><h2>Outline</h2>
+<p>Different countries have developed federated/distributed tools for open data collection that enable automatic publication of the (meta)data corresponding to the data sets published on the websites of each public entity. A global index of reusable public information can be thus created and accessed by users to locate reusable data. Aggregation enables it without the need to know and find the website of the public entity holding the data in which re-users are interested in.</p>
+</section>
+
+<section id="links"><h3>Links to the Revised PSI Directive</h3>
+<p><a href="/2013/share-psi/elements/bp/platforms/">Platforms</a>, 
+<a href="/2013/share-psi/elements/bp/techniques">Techniques</a>, 
+<a href="/2013/share-psi/elements/bp/organisation">Organisation</a>, 
+<a href="/2013/share-psi/elements/bp/formats">Formats</a>, 
+<a href="/2013/share-psi/elements/bp/reuse">Reuse</a>, 
+<a href="/2013/share-psi/elements/bp/persistence">Persistence</a>, 
+<a href="/2013/share-psi/elements/bp/documentation">Documentation</a></p></section>
+
+
+<section id="challenge"><h3>Challenge</h3>
+<p>The number of data owners is large and from various levels of government, so a country-wide central system, where everyone is authorized to log in, would be hard to implement. Also, the data owners are quite autonomous of each other, so no unified technical solution could be implemented into their internal processes. In addition, the end-users are from different domains, so there is a need for common understanding.</p>
+</section>
+
+
+<section id="solution"><h3>Solution</h3>
+<p>To overcome the challenges a federated/distributed solution, that is scalable and can integrate numerous counterparts, is to be implemented. Counterparts are integrated via common output data format that poses little requirements on internal processes. Also, a common vocabulary (in the format of data schema) is to be put in practice.</p>
+</section>
+
+<section id="why"><h3>Why is this a Best Practice?</h3>
+<ul>
+  <li>An aggregated view of the collections from many agencies can be offered to the users, allowing them to explore those collections at a single point of contact.</li>
+  <li>A lot more public servants can take part in (meta)data creation and verification.</li>
+  <li>The creation of (meta)data is close to the source of the data itself.</li>
+  <li>The public agencies hold (and govern themselves) the data in their own environment.</li>
+  <li>No need for centrally managed individual access management or lengthy (meta)data input forms.</li></ul>
+</section>
+
+<section id="implement"><h2>How do I implement this Best Practice?</h2>
+<p>To implement this best practice you will need some actions and elements, among them:</p>
+<ul>
+  <li>Use (or set up) a data portal as a single point where to federate all published datasets of the different public entities. Agree on the organisation of persistent URIs, where from the origin of the data can be accessed. URIs assigned should persistently identify the same thing over time and the thing identified should be also persistently available.</li>
+  <li>Select (or agree on) an intermediate data structure/format. As more and more systems are interconnected with eachother, standardised solutions are preferable (eg W3C recommendation in a DCAT/RDF or ATOM format feed). Nevertheless, in some exceptional domain/local cases it could be as simple as CSV with agreed column names/descriptions.</li>
+  <li>Select an existing (or develop a new) set of tools to push the data to a publication portal (eg a harvester and a national portal, European Open Data Portal). It is best that these work well with the process and tools the public servants use for their daily life (so get to know the work of public servants). Configure the tools to collect the distributed data to be published to the portal.</li>
+  <li>Appoint an agency responsible for maintaining the data structure/format and support the use of tools. If needed, a more sophisticated coordination structure between the different administrative levels (state, regional, local) should be established.</li>
+  <li>Complement (or establish) a legal and technical framework ensuring that each public entity will federate their datasets at the national data portal in a standard manner.</li>
+  <li>Document and train, how the public servant can create the data themselves.</li>
+  <li>Monitor and support the use of selected tools (by the appointed agency).</li></ul>
+</section>
+
+<section id="where">
+  <h2>Where has this best practice been implemented?</h2>
+  <p>This best practice has the following implementation examples:</p>
+<ul>
+  <li>An extension of Spanish National Catalogue <a href="http://datos.gob.es/">datos.gob.es</a> enables aggregation and automatic publication of the metadata corresponding to the data sets published in the own catalogues on the websites of each public entity and also at the in a consistent way. A global index of reusable public information is thus created and can be accessed. The tool ensures maximum coherence between the information being made available by the public entities in their own catalogues and the National Catalogue itself. This solution enables the existence of a global reuse scenario that provides greater visibility for the public data made available by the three levels of government (central, regional, local and universities), as well as a general overview of how public sector information is being reused in Spain.</li>
+  <li>Since the first publication of the DCAT-AP in 2013, many member states have implemented national application profiles based on the European profile. A revision of the DCAT-AP was developed based on contributions from various Member States, the European Commission and independent experts. It has been implemented on national/regional level, with code lists recommended by the DCAT-AP. The reuse of a common structure has enabled to aggregate regional level and domain specific data catalogues to national level, and now on European level.</li>
+  <li>Estonia’s wealth of services has clearly indicated a need for a more structured and methodical approach to national-level service portfolio management. Data suppliers provide information on the public services they provide in the data format agreed either using the data extractions tools developed or manual data entry. That information is collected and stored centrally in a searchable format.</li>
+  <li>To increase interoperability in the exchange of data between public agencies, Germany has developed a set of different free to use tools (under the name of XÖV meaning “XML for public administrations”). These tools aim to support the standardisation of data structures and codes lists. The tools can be used to create and manage code lists (<a href="http://genericoder.xoev.de/">Genericoder</a>), to browse in public agency data standards (<a href="http://interopbrowser.xoev.de">InteropBrowser</a>) or data structures (<a href="http://www.xrepository.de">XRepository</a>).</li></ul>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Country</th>
+                                <th>Implementation</th>
+                                <th>Contact Point</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Spain</td>
+                                <td><a href="http://datos.gob.es/">The Spanish National Catalogue</a></td>
+                                <td><a href="mailto:soporte@datos.gob.es">soporte@datos.gob.es</a></td>
+                            </tr>  
+                            <tr>
+                                <td>European Union</td>
+                                <td><a href="http://www.europeandataportal.eu/">European Data Portal</a></td>
+                                <td><a href="mailto:help@europeandataportal.eu">help@europeandataportal.eu</a></td>
+                            </tr>
+                            <tr>
+                                <td>Estonia</td>
+                                <td><a href="https://www.mkm.ee/et/teenuste-otsing">Estonian Public Service Catalogue</a></td>
+                                <td><a href="mailto:riigiteenused@mkm.ee">riigiteenused@mkm.ee </a></td>
+                            </tr>
+                            <tr>
+                                <td>Germany</td>
+                                <td><a href="http://www.xoev.de/">Coordination Office for IT standards</a></td>
+                                <td><a href="mailto:joerg.hofmann@finanzen.bremen.de">joerg.hofmann@finanzen.bremen.de</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+
+ <section id="references">
+   <h2>References</h2><ul>
+  <li>Samos Workshop: <a href="http://w3c.org/2013/share-psi/wiki/images/c/cc/Share-PSI_FederationTool_v03_en_paper_SCG.pdf">A Federation Tool for Open Data Portals</a> - Mª Dolores Hernández Maroto</li> 
+  <li>Berlin Workshop: <a href="http://w3c.org/2013/share-psi/wiki/images/6/65/Share-PSI_Berlin_Workshop_DCAT-AP_session_proposal_v0.03.pdf">Implementing The DCAT Application Profile For Data Portals In Europe</a> - Nikolaos Loutas, Makx Dekkers</li>
+  <li>Berlin Workshop: <a href="http://w3c.org/2013/share-psi/wiki/images/0/0e/Pilot_Description_(Extract).pdf">Estonian Metadata Reference Architecture</a> - Hannes Kiivet</li>
+  <li>Berlin Workshop: <a href="https://www.w3.org/2013/share-psi/workshop/berlin/XOEV">German XML for public administration “XÖV” tool chain in action</a> - Sebastian Sklarß, Lutz Rabe</li>
+</ul>
+</section>
+
+
+<section id="contact"><h2>Contact Info</h2>
+<p>?</p>
+</section>
+
+<section id="related"><h2>Related Best Practices</h2>
+<ul>
+  <li><a href="/2013/share-psi/bp/cas/">Develop and Implement a Cross Agency Strategy</a></li>
+  <li><a href="/2013/share-psi/bp/odpp/">Develop an Open Data Publication Plan</a></li>
+  <li><a href="/2013/share-psi/bp/portal/">Establish Open Government Portal for data sharing</a></li></ul>
+</section>
+
+</main>
+</div>
+<p class="autoId">$Id: Overview.html,v 1.4 2015/10/21 18:05:12 phila Exp $</p>
+</body></html>
