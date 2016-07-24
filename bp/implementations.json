@@ -5,6 +5,7 @@
     "id": "roGuide",
 		"lang": "ro",
 		"spatial": "Romania",
+    "group": "Romania",
     "flag": "Flag_of_Romania.svg",
 		"downloadURL": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf",
 		"format": "PDF",
@@ -40,6 +41,7 @@
     "id": "caGuide",
 		"lang": "en",
 		"spatial": "Catalunya",
+    "group": "Spain",
     "flag": "Flag_of_Catalonia.svg",
 		"landingPage": "http://transparencia.gencat.cat/es/menu/colleccio-govern-obert/Obertura-i-reutilitzacio-de-dades-publiques-00009",
     "downloadURL": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf",
@@ -83,6 +85,7 @@
     "id": "czOpenDataStandards",
 		"lang": "cs",
 		"spatial": "Czech Republic",
+    "group": "CzechRepublic",
     "flag": "Flag_of_the_Czech_Republic.svg",
 		"homepage": "http://opendata.gov.cz/",
 		"format": "HTML",
@@ -151,6 +154,7 @@
     "id": "fiOpenData",
 		"lang": "fi",
 		"spatial": "Finland",
+    "group": "Finland",
     "flag": "Flag_of_Finland.svg",
     "homepage": "https://www.avoindata.fi/fi/opas",
 		"format": "HTML",
@@ -233,6 +237,7 @@
     "id": "noOpenData",
 		"lang": "no",
 		"spatial": "Norway",
+    "group": "Norway",
     "flag": "Flag_of_Norway.svg",
     "homepage": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data",
 		"format": "HTML",
@@ -279,6 +284,7 @@
     "id": "ieOpenData",
 		"lang": "en",
 		"spatial": "Ireland",
+    "group": "Ireland",
     "flag": "Flag_of_Ireland.svg",
     "homepage": "https://data.gov.ie/guide-for-publishers",
 		"format": "HTML",
@@ -322,6 +328,7 @@
     "id": "okhbsb",
 		"lang": "en",
 		"spatial": "World",
+    "group": "International",
     "flag": "Flag_of_the_United_Nations.svg",
 		"homepage": "http://opendatahandbook.org/solutions/en/",
 		"format": "HTML",
@@ -406,6 +413,7 @@
     "id": "skl",
 		"lang": "se",
 		"spatial": "Sweden",
+    "group": "Sweden",
     "flag": "Flag_of_Sweden.svg",
 		"homepage": "http://skl.se/naringslivarbetedigitalisering/digitalisering/digitaldelaktighetoppenhet/oppnadata/stodvagledning/ramverkoppnadata/ramverketforoppnadata.1184.html",
 		"format": "HTML",
@@ -422,6 +430,7 @@
     "id": "seGLAM",
 		"lang": "en",
 		"spatial": "Sweden",
+    "group": "Sweden",
     "flag": "Flag_of_Sweden.svg",
 		"downloadURL": "http://www.digisam.se/images/docs/english/principles/Guiding%20principles%20for%20working%20with%20digital%20cultural%20heritage.pdf",
 		"format": "PDF",
@@ -438,6 +447,7 @@
     "id": "sePSI",
 		"lang": "se",
 		"spatial": "Sweden",
+    "group": "Sweden",
     "flag": "Flag_of_Sweden.svg",
 		"homepage": "http://www.vidareutnyttjande.se",
 		"format": "HTML",
@@ -468,6 +478,7 @@
     "id": "deGuide",
 		"lang": "de",
 		"spatial": "Germany",
+    "group": "Germany",
     "flag": "Flag_of_Germany.svg",
 		"downloadURL": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile",
 		"format": "PDF",
@@ -538,6 +549,7 @@
     "id": "atGuide",
 		"lang": "en",
 		"spatial": "Austria",
+    "group": "Austria",
     "flag": "Flag_of_Austria.svg",
 		"downloadURL": "https://www.data.gv.at/wp-content/uploads/2013/08/Framework__for_Open_Government_Data_Platforms_1.1.pdf",
 		"format": "PDF",
@@ -577,7 +589,8 @@
     "id": "wnGuide",
 		"lang": "de",
 		"spatial": "Vienna",
-    "flag": "Flag_of_Austria.svg",
+    "group": "Austria",
+    "flag": "Flag_of_Vienna.svg",
 		"downloadURL": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf",
 		"format": "PDF",
 		"issued": "2013-05-10",
@@ -639,6 +652,7 @@
     "id": "odd",
 		"lang": "es",
 		"spatial": "Spain",
+    "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"homepage": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace",
 		"format": "HTML",
@@ -665,6 +679,7 @@
     "id": "mgsodp",
 		"lang": "es",
 		"spatial": "Spain",
+    "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"downloadURL": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf",
 		"format": "PDF",
@@ -701,6 +716,7 @@
     "id": "esou",
 		"lang": "es",
 		"spatial": "Spain",
+    "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"downloadURL": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf",
 		"format": "PDF",
@@ -728,6 +744,7 @@
     "id": "esab",
 		"lang": "es",
 		"spatial": "Spain",
+    "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"homepage": "http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1284197744824/_/_/_",
 		"format": "HTML",
@@ -751,6 +768,7 @@
     "id": "esnt",
 		"lang": "es",
 		"spatial": "Spain",
+    "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"downloadURL": "http://administracionelectronica.gob.es/pae_Home/dms/pae_Home/documentos/Estrategias/pae_Interoperabilidad_Inicio/Guia_de_aplicacion_de_la_Norma_Tecnica_de_Interoperabilidad_de_Reutilizacion_de_recursos_de_informacion/Guia_aplicacion_Reutilizacion_recursos_de_informacion.pdf",
 		"format": "PDF",
@@ -810,6 +828,7 @@
     "id": "elig",
 		"lang": "en",
 		"spatial": "EU",
+    "group": "International",
     "flag": "Flag_of_Europe.svg",
 		"landingPage": "http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=OA0115858",
 		"format": "PDF",
@@ -830,6 +849,7 @@
     "id": "dcatap",
 		"lang": "en",
 		"spatial": "EU",
+    "group": "International",
     "flag": "Flag_of_Europe.svg",
 		"landingPage": "https://joinup.ec.europa.eu/asset/dcat-ap_implementation_guidelines/description",
 		"format": "HTML",
@@ -846,6 +866,7 @@
     "id": "hrGuide",
 		"lang": "hr",
 		"spatial": "Croatia",
+    "group": "Croatia",
     "flag": "Flag_of_Croatia.svg",
 		"homepage": "http://opendata.foi.hr/",
 		"format": "HTML",
@@ -902,6 +923,7 @@
     "id": "scotGuide",
 		"lang": "en",
 		"spatial": "Scotland",
+    "group": "UK",
     "flag": "Flag_of_Scotland.svg",
 		"homepage": "http://www.gov.scot/Publications/2015/08/4093",
 		"format": "HTML",
@@ -974,6 +996,7 @@
     "id": "itGuide",
 		"lang": "it",
 		"spatial": "Italy",
+    "group": "Italy",
     "flag": "Flag_of_Italy.svg",
 		"downloadURL": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf",
 		"format": "PDF",
@@ -1035,6 +1058,7 @@
     "id": "lvGuide",
 		"lang": "lv",
 		"spatial": "Latvia",
+    "group": "Latvia",
     "flag": "Flag_of_Latvia.svg",
 		"homepage": "http://opendata.lumii.lv/vadlinijas/1.0/",
 		"format": "HTML",
@@ -1087,6 +1111,7 @@
     "id": "eeGuide",
 		"lang": "et",
 		"spatial": "Estonia",
+    "group": "Estonia",
     "flag": "Flag_of_Estonia.svg",
 		"downloadURL": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf",
 		"format": "PDF",
@@ -1119,6 +1144,7 @@
     "id": "eePaper",
 		"lang": "et",
 		"spatial": "Estonia",
+    "group": "Estonia",
     "flag": "Flag_of_Estonia.svg",
 		"downloadURL": "https://opendata.riik.ee/sites/default/files/manuals/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt",
 		"format": "ODT",
@@ -1151,6 +1177,7 @@
     "id": "huGuide",
 		"lang": "hu",
 		"spatial": "Hungary",
+    "group": "Hungary",
     "flag": "Flag_of_Hungary.svg",
 		"downloadURL": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf",
 		"format": "PDF",
@@ -1202,6 +1229,7 @@
     "id": "rsGuide",
 		"lang": "sr",
 		"spatial": "Serbia",
+    "group": "Serbia",
     "flag": "Flag_of_Serbia.svg",
 		"homepage": "http://www.linkeddata.rs/OpenDataHandbook/",
 		"format": "HTML",
@@ -1318,6 +1346,7 @@
     "id": "mtGuide",
 		"lang": "en",
 		"spatial": "Malta",
+    "group": "Malta",
     "flag": "Flag_of_Malta.svg",
     "downloadURL": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf",
 		"format": "PDF",
@@ -1362,6 +1391,7 @@
     "id": "siGuide",
 		"lang": "sl",
 		"spatial": "Slovenia",
+    "group": "Slovenia",
     "flag": "Flag_of_Slovenia.svg",
     "downloadURL": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf",
 		"format": "PDF",
@@ -1426,6 +1456,7 @@
     "id": "wmGuide",
 		"lang": "en",
 		"spatial": "UK",
+    "group": "UK",
     "flag": "Flag_of_the_United_Kingdom.svg",
 		"format": "PDF",
 		"creator": "Birmingham City Council",
@@ -1466,6 +1497,7 @@
     "id": "nlGuide",
 		"lang": "nl",
 		"spatial": "Netherlands",
+    "group": "Netherlands",
     "flag": "Flag_of_the_Netherlands.svg",
     "homepage": "https://data.overheid.nl/handreiking-bij-openen-van-data",
 		"format": "HTML",
@@ -1486,5 +1518,60 @@
       "comment": "Stap 3b: Beleg de verantwoordelijkheden en plan het proces",
       "lang": "nl"
      }]
+  }],
+  "groupFlags": [{
+    "id": "Netherlands",
+    "flag": "Flag_of_the_Netherlands.svg"
+  }, {
+    "id": "Romania",
+    "flag": "Flag_of_Romania.svg"
+  }, {
+    "flag": "Flag_of_the_Czech_Republic.svg",
+    "id": "CzechRepublic"
+  }, {
+    "flag": "Flag_of_Finland.svg",
+    "id": "Finland"
+  }, {
+    "flag": "Flag_of_Norway.svg",
+    "id": "Norway"
+  }, {
+    "flag": "Flag_of_Ireland.svg",
+    "id": "Ireland"
+  }, {
+    "flag": "Flag_of_Sweden.svg",
+    "id": "Sweden"
+  }, {
+    "flag": "Flag_of_Germany.svg",
+    "id": "Germany"
+  }, {
+    "flag": "Flag_of_Austria.svg",
+    "id": "Austria"
+  }, {
+    "flag": "Flag_of_Spain.svg",
+    "id": "Spain"
+  }, {
+    "flag": "Flag_of_Croatia.svg",
+    "id": "Croatia"
+  }, {
+    "flag": "Flag_of_Italy.svg",
+    "id": "Italy"
+  }, {
+    "flag": "Flag_of_Latvia.svg",
+    "id": "Latvia"
+  }, {
+    "id": "Estonia",
+    "flag": "Flag_of_Estonia.svg"
+  }, {
+    "id": "Hungary",
+    "flag": "Flag_of_Hungary.svg"
+  }, {
+    "id": "Serbia",
+    "flag": "Flag_of_Serbia.svg"
+  }, {
+    "id": "Malta",
+    "flag": "Flag_of_Malta.svg"
+  }, {
+    "id": "Slovenia",
+    "flag": "Flag_of_Slovenia.svg"
   }]
 }
