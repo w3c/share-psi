@@ -1,0 +1,1490 @@
+{
+	"imp": [{
+    "title": "Ghid Pentru Publicarea Datelor Deschise",
+		"titleEN": "Romanian Open Data Guide",
+    "id": "roGuide",
+		"lang": "ro",
+		"spatial": "Romania",
+    "flag": "Flag_of_Romania.svg",
+		"downloadURL": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf",
+		"format": "PDF",
+		"issued": "2015-03",
+		"creator": "Cancelaria Prim-Ministrului",
+		"BPs": [{
+			"id": "cas",
+			"url": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf#page=9",
+      "lang": "ro"
+		}, {
+			"id": "dc",
+			"url": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf#page=17",
+      "lang": "ro"
+		}, {
+			"id": "ef",
+			"url": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf#page=22",
+      "lang": "ro"
+		}, {
+			"id": "portal",
+			"url": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf#page=20",
+      "lang": "ro"
+		}, {
+			"id": "pomd",
+			"url": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf#page=19",
+      "lang": "ro"
+		}, {
+			"id": "odpp",
+			"url": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf#page=16",
+      "lang": "ro"
+		}]
+	}, {
+    "titleEN": "Government Data Openness and Re-use",
+    "id": "caGuide",
+		"lang": "en",
+		"spatial": "Catalunya",
+    "flag": "Flag_of_Catalonia.svg",
+		"landingPage": "http://transparencia.gencat.cat/es/menu/colleccio-govern-obert/Obertura-i-reutilitzacio-de-dades-publiques-00009",
+    "downloadURL": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf",
+		"format": "PDF",
+		"issued": "2014-11",
+		"creator": "Government of Catalonia",
+		"BPs": [{
+			"id": "dc",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=33"
+		}, {
+			"id": "eode",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=30"
+		}, {
+			"id": "ef",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=53"
+		}, {
+			"id": "hm",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=23"
+		}, {
+			"id": "portal",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=31"
+		}, {
+			"id": "odpp",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=31"
+		}, {
+			"id": "ptd",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=34"
+		}, {
+			"id": "eqa",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=16"
+		}, {
+			"id": "ord",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=20"
+		}, {
+			"id": "su",
+			"url": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf#page=55"
+		}]
+	}, {
+		"title": "Standardy publikace a katalogizace otevřených dat veřejné správy ČR",
+    "titleEN": "Open Data Standards",
+    "id": "czOpenDataStandards",
+		"lang": "cs",
+		"spatial": "Czech Republic",
+    "flag": "Flag_of_the_Czech_Republic.svg",
+		"homepage": "http://opendata.gov.cz/",
+		"format": "HTML",
+		"issued": "2016",
+		"creator": "Michal Kuban for the Czech government",
+		"BPs": [{
+			"id": "odbm",
+			"url": "http://opendata.gov.cz/cinnost:urceni-prinosu-publikace",
+      "comment": "Určení přínosů otevření datových sad"
+		}, {
+			"id": "cod",
+			"url": "http://opendata.gov.cz/cinnost:priprava-publikacniho-planu",
+      "comment": "Příprava publikačního plánu"
+		}, {
+			"id": "cas",
+			"url": "http://opendata.gov.cz/start",
+      "comment": "Standardy publikace a katalogizace otevřených dat veřejné správy ČR"
+    }, {
+      "id": "ec",
+			"url": "http://opendata.gov.cz/cinnost:urceni-prinosu-publikace",
+      "comment": "Určení přínosů otevření datových sad"
+    }, {
+			"id": "eode",
+			"url": "http://opendata.gov.cz/start",
+      "comment": "Standardy publikace a katalogizace otevřených dat veřejné správy ČR"
+    }, {
+			"id": "ft",
+			"url": "http://opendata.gov.cz/standardy:zprovozneni-lokalniho-katalogu",
+      "comment": "Zprovoznění lokálního katalogu otevřených dat a jeho registrace v NKOD"
+    }, {
+			"id": "ef",
+			"url": "http://opendata.gov.cz/kontakt",
+      "comment": "Michal Kuban"
+    }, {
+			"id": "hm",
+			"url": "http://opendata.gov.cz/cinnost:priprava-publikacniho-planu",
+      "comment": "Příprava publikačního plánu"
+    }, {
+			"id": "iwyap",
+			"url": "http://opendata.gov.cz/standardy:vytvoreni-publikacniho-planu",
+      "comment": "Vytvoření publikačního plánu"
+    }, {
+			"id": "portal",
+			"url": "http://opendata.gov.cz/cinnost:sprava-katalogizacniho-zaznamu-v-nkod",
+      "comment": "Vytvoření a správa záznamu o datové sadě v Národním katalogu otevřených dat (NKOD)"
+    }, {
+			"id": "pomd",
+			"url": "http://opendata.gov.cz/standardy:vytvoreni-publikacniho-planu",
+      "comment": "Vytvoření publikačního plánu"
+    }, {
+			"id": "odpp",
+			"url": "http://opendata.gov.cz/standardy:vytvoreni-publikacniho-planu",
+      "comment": "Vytvoření publikačního plánu"
+    }, {
+			"id": "ptd",
+			"url": "http://opendata.gov.cz/datova-sada:jizdni-rady-zastavky",
+      "comment": "Datová sada: Umístění zastávek hromadné dopravy"
+    }, {
+			"id": "hls",
+			"url": "http://opendata.gov.cz/",
+      "comment": "Standardy publikace a katalogizace otevřených dat veřejné správy ČR"
+  	}]
+	}, {
+		"title": "Avoimen Datan Opas",
+    "titleEN": "Open Data Guide",
+    "id": "fiOpenData",
+		"lang": "fi",
+		"spatial": "Finland",
+    "flag": "Flag_of_Finland.svg",
+    "homepage": "https://www.avoindata.fi/fi/opas",
+		"format": "HTML",
+		"issued": "2016-06-01",
+		"creator": "National ICT Centre",
+		"BPs": [{
+			"id": "odbm",
+			"url": "https://www.avoindata.fi/fi/opas/analysoi",
+      "Comment": "2.4. Käyttäjätarpeet ja kysyntä",
+      "lang": "fi"
+		}, {
+			"id": "cod",
+			"url": "https://www.avoindata.fi/fi/opas/kartoita",
+      "comment": "1.5. Tietovarantojen luokittelu avattavuuden suhteen",
+      "lang": "fi"
+		}, {
+			"id": "cas",
+			"url": "https://www.avoindata.fi/fi/opas/analysoi",
+      "comment": "2.3. Avaamisen motivaatio ja strategiset tavoitteet",
+      "lang": "fi"
+		}, {
+			"id": "ec",
+			"url": "https://www.avoindata.fi/fi/opas/seuraa",
+      "comment": "4.5. Aineiston laadun parantaminen",
+      "lang": "fi"
+		}, {
+			"id": "dc",
+			"url": "https://www.avoindata.fi/fi/opas/kartoita",
+      "comment": "1.6. Datan jaotteluja",
+      "lang": "fi"
+		}, {
+			"id": "eode",
+			"url": "https://www.avoindata.fi/fi/opas/seuraa",
+      "comment": "4.6. Prosessin kehittäminen",
+      "lang": "fi"
+		}, {
+			"id": "ef",
+			"url": "https://www.avoindata.fi/fi/opas/valmistele",
+      "comment": "3.5. Ylläpito ja palaute",
+      "lang": "fi"
+		}, {
+			"id": "sgd",
+			"url": "https://www.avoindata.fi/fi/opas/valmistele",
+      "comment": "3.4. Tekniset valinnat",
+      "lang": "fi"
+		}, {
+			"id": "hm",
+			"url": "https://www.avoindata.fi/fi/opas/seuraa",
+      "comment": "4.6. Prosessin kehittäminen",
+      "lang": "fi"
+		}, {
+			"id": "iwyap",
+			"url": "https://www.avoindata.fi/fi/opas/kartoita",
+      "comment": "1.4. Tietovarantojen ja -järjestelmien kartoitus",
+      "lang": "fi"
+		}, {
+			"id": "pomd",
+			"url": "https://www.avoindata.fi/fi/opas/kartoita",
+      "comment": "1.7. Tietovarantokatsauksen julkaisu",
+      "lang": "fi"
+		}, {
+			"id": "odpp",
+			"url": "https://www.avoindata.fi/fi/opas/analysoi",
+      "comment": "2.1. Tavoitteet",
+      "lang": "fi"
+		}, {
+			"id": "eqa",
+			"url": "https://www.avoindata.fi/fi/opas/valmistele",
+      "comment": "3.6. Tiedon viimeistely ja laatu",
+      "lang": "fi"
+		}, {
+			"id": "su",
+			"url": "https://www.avoindata.fi/fi/opas/seuraa",
+      "comment": "4.6. Prosessin kehittäminen",
+      "lang": "fi"
+  	}]
+	}, {
+		"title": "Veileder i tilgjengeliggjøring av offentlige data",
+    "titleEN": "Guide to making public data available",
+    "id": "noOpenData",
+		"lang": "no",
+		"spatial": "Norway",
+    "flag": "Flag_of_Norway.svg",
+    "homepage": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data",
+		"format": "HTML",
+		"issued": "2016",
+		"creator": "Difi",
+		"BPs": [{
+			"id": "cas",
+			"url": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data/1-hva-er-%C3%A5pne-data/14",
+      "comment": "1.4 Trafikklyssystemet",
+      "lang": "no"
+    	}, {
+			"id": "zero",
+			"url": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data/3-den-juridiske-sid-2",
+      "comment": "Retninglinjer: 1. Gratisprinsippet",
+      "lang": "no"
+    	}, {
+			"id": "eode",
+			"url": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data/hva-mer-kan-du-gj%C3%B8re",
+      "comment": "Hva mer kan du gjøre?",
+      "lang": "no"
+    	}, {
+			"id": "ft",
+			"url": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data/hvordan-g%C3%A5r-du-frem",
+      "comment": "Hvordan går du frem",
+      "lang": "no"
+    	}, {
+			"id": "ef",
+			"url": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data/3-den-juridiske-sid-2",
+      "comment": "Retningslinjer: 7. Tilbakemeldinger",
+      "lang": "no"
+    	}, {
+			"id": "portal",
+			"url": "http://data.norge.no",
+      "comment": "data.norge.no: Åpne offentlige data i Norge",
+      "lang": "no"
+    	}, {
+			"id": "pomd",
+			"url": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data/4-hvordan-g%C3%A5r-du-fr-1",
+      "comment": "4.2 Utvelging",
+      "lang": "no"
+    	}]
+    }, {
+		"title": "Guide for publishers",
+    "id": "ieOpenData",
+		"lang": "en",
+		"spatial": "Ireland",
+    "flag": "Flag_of_Ireland.svg",
+    "homepage": "https://data.gov.ie/guide-for-publishers",
+		"format": "HTML",
+		"issued": "2015-07-01",
+		"creator": "Government Reform Unit, Dept of Public Expenditure &amp; Reform",
+		"BPs": [{
+			"id": "odbm",
+			"url": "https://data.gov.ie/strategy#a-vision-for-business",
+      "comment": "A vision for business use of data"
+    }, {
+			"id": "cod",
+			"url": "https://data.gov.ie/technical-framework",
+      "comment": "Publishing Open Data"
+    }, {
+			"id": "dc",
+			"url": "https://data.gov.ie/technical-framework",
+      "comment": "Decision Process Map"
+    }, {
+			"id": "ft",
+			"url": "https://data.gov.ie/technical-framework",
+      "comment": "Technical Framework - consistent approach to the publication of Open Data"
+    }, {
+			"id": "sgd",
+			"url": "https://data.gov.ie/technical-framework",
+      "comment": "Recommendations - Geospatial"
+    }, {
+			"id": "hm",
+			"url": "https://data.gov.ie/technical-framework#publishing-open-data",
+      "comment": "Publishing Open Data - Process Model"
+    }, {
+			"id": "portal",
+			"url": "https://data.gov.ie/strategy#irelands-open-data-initiative",
+      "comment": "Ireland's open data initiative"
+    }, {
+			"id": "odpp",
+			"url": "https://data.gov.ie/strategy",
+      "comment": "Publication Plans"
+  	}]
+	}, {
+		"title": "Open Data Handbook, Solutions Bank",
+    "id": "okhbsb",
+		"lang": "en",
+		"spatial": "World",
+    "flag": "Flag_of_the_United_Nations.svg",
+		"homepage": "http://opendatahandbook.org/solutions/en/",
+		"format": "HTML",
+		"issued": "2016-07",
+		"creator": "Open Knowledge",
+		"BPs": [{
+			"id": "ptd",
+			"url": "http://opendatahandbook.org/solutions/en/Public-Transport-Data/",
+      "comment": "Open Up Public Transport Data"
+      }, {
+			"id": "stats",
+			"url": "http://opendatahandbook.org/solutions/en/Linked-Data-Format/",
+      "comment": "Publish Statistical Data In Linked Data Format"
+      }, {
+			"id": "ec",
+			"url": "http://opendatahandbook.org/solutions/en/Encourage-Crowdsourcing/",
+      "comment": "Encourage crowdsourcing around Public Sector Information"
+      }, {
+			"id": "hm",
+			"url": "http://opendatahandbook.org/solutions/en/Holistic-Metrics/",
+      "comment": "Assess holistic metrics"
+      }, {
+			"id": "eode",
+			"url": "http://opendatahandbook.org/solutions/en/Open-Data-Ecosystem/",
+      "comment": "Establish an Open Data Ecosystem"
+      }, {
+			"id": "iwyap",
+			"url": "http://opendatahandbook.org/solutions/en/Identify-Published-Data/",
+      "comment": "Identify what you already publish"
+      }, {
+			"id": "zero",
+			"url": "http://opendatahandbook.org/solutions/en/Zero-Charge/",
+      "comment": "Provide PSI at zero charge"
+      }, {
+			"id": "eqa",
+			"url": "http://opendatahandbook.org/solutions/en/Enable-Quality-Assessment/",
+      "comment": "Enable quality assessment of open data"
+      }, {
+			"id": "odbm",
+			"url": "http://opendatahandbook.org/solutions/en/Open-Data-Business-Models/",
+      "comment": "Open Data Business Models and Value Disciplines"
+      }, {
+			"id": "pomd",
+			"url": "http://opendatahandbook.org/solutions/en/Publish-Overview/",
+      "comment": "Publish overview of managed data"
+      }, {
+			"id": "ft",
+			"url": "http://opendatahandbook.org/solutions/en/Federated-Tools/",
+      "comment": "(Re)use federated tools"
+      }, {
+			"id": "portal",
+			"url": "http://opendatahandbook.org/solutions/en/Establish-Portal/",
+      "comment": "Establish Open Government Portal for data sharing"
+      }, {
+			"id": "sgd",
+			"url": "http://opendatahandbook.org/solutions/en/Geospatial-Data/",
+      "comment": "Standards for Geospatial Data"
+      }, {
+			"id": "cas",
+			"url": "http://opendatahandbook.org/solutions/en/Cross-Agency-Strategy/",
+      "comment": "Develop and Implement a Cross Agency Strategy"
+      }, {
+			"id": "dc",
+			"url": "http://opendatahandbook.org/solutions/en/Dataset-Criteria/",
+      "comment": "Develop dataset criteria"
+      }, {
+			"id": "odpp",
+			"url": "http://opendatahandbook.org/solutions/en/Publication-Plan/",
+      "comment": "Develop an Open Data Publication Plan"
+      }, {
+			"id": "ef",
+			"url": "http://opendatahandbook.org/solutions/en/Enable-Feedback-Channels/",
+      "comment": "Enable feedback channels for improving the quality of existing government data"
+      }, {
+			"id": "cod",
+			"url": "http://opendatahandbook.org/solutions/en/Categorise-Openness/",
+      "comment": "Categorise openness of data"
+      }]
+    }, {
+		"title": "Ramverket för öppna data - SKL",
+    "titleEN": "The Framework for Open Data",
+    "id": "skl",
+		"lang": "se",
+		"spatial": "Sweden",
+    "flag": "Flag_of_Sweden.svg",
+		"homepage": "http://skl.se/naringslivarbetedigitalisering/digitalisering/digitaldelaktighetoppenhet/oppnadata/stodvagledning/ramverkoppnadata/ramverketforoppnadata.1184.html",
+		"format": "HTML",
+		"issued": "2015-08-27",
+		"creator": "Sveriges Kommuner och Landsting",
+		"BPs": [{
+			"id": "hls",
+			"url": "http://skl.se/download/18.772895e214641fb368dcefff/1403190241215/Rad_gallande_ansvar_roller_avgifter_med_mera_för_arbetet_med_oppna_data_SKL.pdf#page=7",
+      "comment": "3.1. Utse någon som är ansvarig för arbetet",
+      "lang": "se"
+      }]
+  }, {
+		"title": "Guiding principles for working with digital cultural heritage",
+    "id": "seGLAM",
+		"lang": "en",
+		"spatial": "Sweden",
+    "flag": "Flag_of_Sweden.svg",
+		"downloadURL": "http://www.digisam.se/images/docs/english/principles/Guiding%20principles%20for%20working%20with%20digital%20cultural%20heritage.pdf",
+		"format": "PDF",
+		"issued": "2014-04-03",
+		"creator": "Digisam",
+		"BPs": [{
+			"id": "ef",
+			"url": "http://www.digisam.se/images/docs/english/principles/Guiding%20principles%20for%20working%20with%20digital%20cultural%20heritage.pdf#page=8",
+      "comment": "P12. Collaboration around information shall be made possible"
+      }]
+  }, {
+		"title": "Vidareutnyttjande av information Om PSI och öppna data",
+    "titleEN": "Reuse of PSI and open data",
+    "id": "sePSI",
+		"lang": "se",
+		"spatial": "Sweden",
+    "flag": "Flag_of_Sweden.svg",
+		"homepage": "http://www.vidareutnyttjande.se",
+		"format": "HTML",
+		"creator": "e-Delegationen",
+		"BPs": [{
+			"id": "zero",
+			"url": "http://www.vidareutnyttjande.se/juridik-och-rekommendationer/utlamnande-i-elektronisk-form-pa-begaran-andrahandsalternativet/sarskilt-om-avgifter/",
+      "comment": "Särskilt om avgifter"
+      }, {
+			"id": "iwyap",
+			"url": "http://www.vidareutnyttjande.se/skapa-och-publicera-oppna-data/skapa-en-forteckning-over-informationsresurser/",
+      "comment": "Inventering av informationsresurser"
+      }, {
+			"id": "pomd",
+			"url": "http://www.vidareutnyttjande.se/skapa-och-publicera-oppna-data/skapa-en-forteckning-over-informationsresurser/",
+      "comment": "Inventering av informationsresurser"
+      }, {
+			"id": "odpp",
+			"url": "http://www.vidareutnyttjande.se/skapa-och-publicera-oppna-data/ta-fram-en-handlingsplan-2/",
+      "comment": "Ta fram en handlingsplan"
+      }, {
+			"id": "hls",
+			"url": "http://www.vidareutnyttjande.se/skapa-och-publicera-oppna-data/",
+      "comment": "Att organisera arbetet"
+      }]
+  }, {
+		"title": "Open Government Data Deutschland",
+    "id": "deGuide",
+		"lang": "de",
+		"spatial": "Germany",
+    "flag": "Flag_of_Germany.svg",
+		"downloadURL": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile",
+		"format": "PDF",
+		"issued": "2012-07",
+		"creator": "Bundesministerium des Innern",
+		"BPs": [{
+			"id": "cas",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=78",
+      "comment": "H 3: Strategische Dimension offener Verwaltungsdaten durch Kooperationen und Partnerschaften realisieren",
+      "lang": "de"
+      }, {
+			"id": "ec",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=376",
+      "comment": "H 37) Governance für Beteiligung öffnen - gesellschaftliche Akteure als Ideengeber nutzen",
+      "lang": "de"
+      }, {
+			"id": "dc",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=497",
+      "comment": "H 22) Weitgehende Berücksichtigung der Open-Data-Kriterien der behördlichen Ermessensentscheidung",
+      "lang": "de"
+      }, {
+			"id": "eode",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=88",
+      "comment": "H 4) Datenangebot nicht nur auf offene Verwaltungsdaten beschränken – Zugang für Daten Dritter, wie z.B. von Freiwilligen gesammelte Daten, Wissenschafts- oder Wirtschaftsdaten, öffnen",
+      "lang": "de"
+      }, {
+			"id": "ft",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=113",
+      "comment": "H 10) In der Datenbereitstellung ist Zusammenarbeit wichtiger als Alleingang. Föderale Open-Government-Plattform aufbauen",
+      "lang": "de"
+      }, {
+			"id": "ef",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=107",
+      "comment": "H 8) Zielgruppenorientierte Ausgestaltung von Open-Government-Data-Angeboten (letzter Absatz)",
+      "lang": "de"
+      }, {
+			"id": "sgd",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=500",
+      "comment": "H 34) Beim Abrechnungsdienst Kooperation und Standardisierung anstreben  / H 44) »Verbindliche« Standards festlegen",
+      "lang": "de"
+      }, {
+			"id": "iwyap",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=502",
+      "comment": "H 41) Automatisierte Anbindung der auf CSW basierenden georeferenzierten Datensätze",
+      "lang": "de"
+      }, {
+			"id": "portal",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=113",
+      "comment": "H 10) In der Datenbereitstellung ist Zusammenarbeit wichtiger als Alleingang. Föderale Open-Government-Plattform aufbauen.",
+      "lang": "de"
+      }, {
+			"id": "pomd",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=491",
+      "comment": "H 2) Neue Zugangskanäle eröffnen und die Mitwirkung fördern – Bereitstellung von Programmierschnittstellen (sogenannter APIs) zu Datenbeständen zentraler Verzeichnisse",
+      "lang": "de"
+      }, {
+			"id": "su",
+			"url": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile#page=492",
+      "comment": "H 5) Offene Verwaltungsdaten als Instrument der Wirtschaftsförderung einsetzen",
+      "lang": "de"
+      }],
+		"backgroundStudyURL": "https://www.w3.org/2013/share-psi/wiki/images/3/33/Gap_Analyse_Share-PSI_Deutschland_2016-07-13.pdf",
+		"backgroundStudyTitle": "Vergleich Internationaler Best-Practices und BestPractices aus Deutschland zum Thema Austausch von Daten aus dem Öffentlichen Sektor",
+		"backgroundStudyAuthors": "Yury Glikman (Fraunhofer FOKUS), Martin Herzog (init), Bahar Karadeniz (FZI), Jens Klessmann (Fraunhofer FOKUS), Benedikt Kämpgen (KIT), Sebastian Sklarß (init)",
+    "backgroundStudyDate": "2016-07-13"
+  }, {
+		"title": "Framework for Open Government Data Platforms",
+    "id": "atGuide",
+		"lang": "en",
+		"spatial": "Austria",
+    "flag": "Flag_of_Austria.svg",
+		"downloadURL": "https://www.data.gv.at/wp-content/uploads/2013/08/Framework__for_Open_Government_Data_Platforms_1.1.pdf",
+		"format": "PDF",
+		"issued": "2013-08-23",
+		"creator": "eGovernment Bund-Länder-Gemeinden",
+		"BPs": [{
+			"id": "cod",
+			"url": "http://reference.e-government.gv.at/fileadmin/_migrated/content_uploads/upsir_1-0-0._20150701pdf.pdf#page=7",
+      "comment": "3.2.7. Kennzeichnung von kostenpflichtigen Datensätzen",
+      "lang": "de"
+      }, {
+			"id": "zero",
+			"url": "https://www.data.gv.at/wp-content/uploads/2013/08/Framework__for_Open_Government_Data_Platforms_1.1.pdf#page=7",
+      "comment": "2 Open Government Data Principles"
+      }, {
+			"id": "ef",
+			"url": "https://www.data.gv.at/wp-content/uploads/2013/08/Framework__for_Open_Government_Data_Platforms_1.1.pdf#page=4",
+      "comment": "Open Government Data (OGD)"
+      }, {
+			"id": "ptd",
+			"url": "https://www.data.gv.at/wp-content/uploads/2015/07/OTD_Paper_ITS_Austria_onlinePdfVersion.pdf#page=12",
+      "comment": "Berechnung der Entgelte",
+      "lang": "de"
+      }, {
+			"id": "eqa",
+			"url": "https://www.data.gv.at/wp-content/uploads/2012/03/Mission-Statement-AG-Qualitaetssicherung-OpenData-Portale.pdf",
+      "comment": "Datenqualität und Veröffentlichungsprozesse",
+      "lang": "de"
+      }, {
+			"id": "ord",
+			"url": "https://zenodo.org/record/34079/preview?filename=OANA_OA-Recommendations_30-11-2015.pdf",
+      "comment": "Recommendations for the Transition to Open Access in Austria"
+      }]
+  }, {
+		"title": "Open-Government-Vorgehensmodell",
+    "titleEN": "Open Government Process Model",
+    "id": "wnGuide",
+		"lang": "de",
+		"spatial": "Vienna",
+    "flag": "Flag_of_Austria.svg",
+		"downloadURL": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf",
+		"format": "PDF",
+		"issued": "2013-05-10",
+		"creator": "Staadt Wien, Zentrum f&uuml;r Verwaltungs Forschung",
+		"BPs": [{
+			"id": "cas",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=11",
+      "comment": "Ausgangssituation und Rahmenbedingungen",
+      "lang": "de"
+      }, {
+			"id": "ec",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=38",
+      "comment": "Offene Partizipation verbessern",
+      "lang": "de"
+      }, {
+			"id": "dc",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=16",
+      "comment": "Datentransparenz erhöhen",
+      "lang": "de"
+      }, {
+			"id": "eode",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=38",
+      "comment": "Offene Partizipation verbessern",
+      "lang": "de"
+      }, {
+			"id": "hm",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=34",
+      "comment": "Data Governance Rollenmodell",
+      "lang": "de"
+      }, {
+			"id": "iwyap",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=20",
+      "comment": "Datenkatalog erstellen",
+      "lang": "de"
+      }, {
+			"id": "portal",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=32",
+      "comment": "Aufsetzen eines Datenportals",
+      "lang": "de"
+      }, {
+			"id": "pomd",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=19",
+      "comment": "Erstellen eines Datenkatalogs",
+      "lang": "de"
+      }, {
+			"id": "odpp",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=25",
+      "comment": "Kriterien für das interne Datenmonitoring",
+      "lang": "de"
+      }, {
+			"id": "hls",
+			"url": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf#page=17",
+      "comment": " Einrichten eines Open-Government-Kompetenzzentrums",
+      "lang": "de"
+      }]
+  }, {
+		"title": "Dec&#225;logo Open Data",
+    "titleEN": "Open Data Decalogue",
+    "id": "odd",
+		"lang": "es",
+		"spatial": "Spain",
+    "flag": "Flag_of_Spain.svg",
+		"homepage": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace",
+		"format": "HTML",
+		"creator": "GNOSS",
+		"BPs": [{
+			"id": "ef",
+			"url": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace#punto6",
+      "comment": "Compromiso de servicio, actualización y calidad del dato, manteniendo un canal eficiente de comunicación reutilizador &lt;-&gt; AAPP",
+      "lang": "es"
+      }, {
+			"id": "hm",
+			"url": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace#punto7",
+      "comment": "Monitorizar y evaluar el uso y servicio mediante métricas",
+      "lang": "es"
+      }, {
+			"id": "portal",
+			"url": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace#punto3",
+      "comment": "Inventario en un catálogo de datos estructurado",
+      "lang": "es"
+      }]
+  }, {
+		"title": "Guía metodológica para planes open data sectoriales",
+    "titleEN": "Methodological Guide for Sectorial Open Data Plans",
+    "id": "mgsodp",
+		"lang": "es",
+		"spatial": "Spain",
+    "flag": "Flag_of_Spain.svg",
+		"downloadURL": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf",
+		"format": "PDF",
+		"creator": "Ministerio de Industria Energia Y Tourismo, Ministerio de Hacienda y Administraciones P&uacute;blicas, red.es, aporta.es",
+		"BPs": [{
+			"id": "cas",
+			"url": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf#page=14",
+      "comment": "Fomento de la reutilización",
+      "lang": "es"
+      }, {
+			"id": "ef",
+			"url": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf#page=11",
+      "comment": "Demanda de datos",
+      "lang": "es"
+      }, {
+			"id": "hm",
+			"url": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf#page=12",
+      "comment": "Demanda de datos",
+      "lang": "es"
+      }, {
+			"id": "iwyap",
+			"url": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf#page=11",
+      "comment": "Creación de nuevos servicios de valor",
+      "lang": "es"
+      }, {
+			"id": "su",
+			"url": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf#page=14",
+      "comment": "Fomento de la reutilización",
+      "lang": "es"
+      }]
+  }, {
+		"title": "Guía para el desarrollo de la Universidad Abierta",
+    "titleEN": "Open University Development Guide",
+    "id": "esou",
+		"lang": "es",
+		"spatial": "Spain",
+    "flag": "Flag_of_Spain.svg",
+		"downloadURL": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf",
+		"format": "PDF",
+		"creator": "CRUE-TIC",
+		"BPs": [{
+			"id": "ef",
+			"url": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf#page=8",
+      "lang": "es"
+      }, {
+			"id": "hm",
+			"url": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf#page=9",
+      "lang": "es"
+      }, {
+			"id": "portal",
+			"url": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf#page=8",
+      "lang": "es"
+      }, {
+			"id": "ord",
+			"url": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf#page=14",
+      "lang": "es"
+      }]
+  }, {
+		"title": "Reutilización de la Información de los Servicios Públicos",
+    "titleEN": "Open University Development Guide",
+    "id": "esab",
+		"lang": "es",
+		"spatial": "Spain",
+    "flag": "Flag_of_Spain.svg",
+		"homepage": "http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1284197744824/_/_/_",
+		"format": "HTML",
+		"creator": "Junta de Castilla y León",
+		"BPs": [{
+			"id": "cas",
+			"url": "http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1284197744824/_/_/_",
+      "lang": "es"
+      }, {
+			"id": "ef",
+			"url": "http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1284197744824/_/_/_",
+      "lang": "es"
+      }, {
+			"id": "portal",
+			"url": "http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1284197744824/_/_/_",
+      "lang": "es"
+      }]
+  }, {
+		"title": "Guía de aplicación de la Norma Técnica de Interoperabilidad de reutilización de recursos de información",
+    "titleEN": "Application Guide for Technical Interoperability Standard on PSI re-use",
+    "id": "esnt",
+		"lang": "es",
+		"spatial": "Spain",
+    "flag": "Flag_of_Spain.svg",
+		"downloadURL": "http://administracionelectronica.gob.es/pae_Home/dms/pae_Home/documentos/Estrategias/pae_Interoperabilidad_Inicio/Guia_de_aplicacion_de_la_Norma_Tecnica_de_Interoperabilidad_de_Reutilizacion_de_recursos_de_informacion/Guia_aplicacion_Reutilizacion_recursos_de_informacion.pdf",
+		"format": "PDF",
+    "issued": "2016-04",
+		"creator": "Ministerio de Hacienda y Administraciones P&uacute;blicas",
+		"BPs": [{
+			"id": "cod",
+      "comment": "5 - Selección de la información reutilizable, page 16",
+      "lang": "es"
+      }, {
+			"id": "cas",
+      "comment": "4.1 - Elementos de una iniciativa de reutilización de información pública, page 14",
+      "lang": "es"
+      }, {
+			"id": "dc",
+      "comment": "6.2 -  Descripción de la información reutilizable, page 31; 6.3 - Formato de los documentos y recursos de información, page 49; 8.1 - Puesta a disposición de los documentos y recursos de información, page 54",
+      "lang": "es"
+      }, {
+			"id": "eode",
+      "comment": "4.1 - Elementos de una iniciativa de reutilización de información pública, page 14; 8.1 - Puesta a disposición de los documentos y recursos de información, page 54; 8.2 - Catálogo de información pública reutilizable, page 56",
+      "lang": "es"
+      }, {
+			"id": "ft",
+      "comment": "8.1 - Puesta a disposición de los documentos y recursos de información, page 54; 8.2 - Catálogo de información pública reutilizable, page 56",
+      "lang": "es"
+      }, {
+			"id": "ef",
+      "comment": "8.2 - Catálogo de información pública reutilizable, page 56",
+      "lang": "es"
+      }, {
+			"id": "sgd",
+      "comment": "6.3 - Formato de los documentos y recursos  de información reutilizables, page 49",
+      "lang": "es"
+      }, {
+			"id": "iwyap",
+      "comment": "5 - Selección de la información reutilizable, page 16",
+      "lang": "es"
+      }, {
+			"id": "portal",
+      "comment": "8.1 - Puesta a disposición de los documentos y recursos de información, page 54; 8.2 - Catálogo de información pública reutilizable, page 56",
+      "lang": "es"
+      }, {
+			"id": "odpp",
+      "comment": "4.1 - Elementos de una iniciativa de reutilización de información pública, page 14",
+      "lang": "es"
+      }, {
+			"id": "ptd",
+      "comment": "5 - Selección de la información reutilizable, page 16; 6 - Preparación y representación de la información reutilizable, page 19",
+      "lang": "es"
+      }, {
+			"id": "stats",
+      "comment": "6.1.1 - Identificación de los recursos en Linked Data, page 21; 6.1.6 - Gestión de los identificadores de recursos de Linked Data, page 30; 6.3 - Formato de los documentos y recursos de información reutilizable, page 49; 8.2 - Catálogo de información pública reutilizable, page 56",
+      "lang": "es"
+      }]
+  }, {
+		"title": "ELI implementation methodology: Good practices and guidelines",
+    "id": "elig",
+		"lang": "en",
+		"spatial": "EU",
+    "flag": "Flag_of_Europe.svg",
+		"landingPage": "http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=OA0115858",
+		"format": "PDF",
+    "issued": "2015",
+		"creator": "Makx Dekkers for the Publications Office of the European Union",
+		"BPs": [{
+			"id": "eode",
+      "comment": "GP1: Building on the knowledge and experience of others"
+      }, {
+			"id": "hm",
+      "comment": "GP15: Monitoring website usage and links to legislation on the web through statistics; GP16: Monitoring service levels and persistance of URIs"
+      }, {
+			"id": "odpp",
+      "comment": "GP2: Estimating implementation costs; GP3: Setting up a central organisation as a national coordination point; GP4: Structuring your implementation project; GP5: Writing a policy document providing guarantees for long-term persistence; GP13: Providing service-level guarantees; GP17: Following a user-centered design taking into account type of users, GP22: Creating metadata as part of the workflow, including validation services"
+      }]
+  }, {
+		"title": "DCAT application profile implementation guidelines",
+    "id": "dcatap",
+		"lang": "en",
+		"spatial": "EU",
+    "flag": "Flag_of_Europe.svg",
+		"landingPage": "https://joinup.ec.europa.eu/asset/dcat-ap_implementation_guidelines/description",
+		"format": "HTML",
+    "issued": "2015",
+		"creator": "European Commission",
+		"BPs": [{
+			"id": "ft",
+      "url": "https://joinup.ec.europa.eu/node/150350/",
+      "comment": "Overview of tools"
+      }]
+  }, {
+    "title": "Preporuke o prilagodbi skupova podataka za javnu objavu i ponovno korištenje",
+    "titleEN": "Open Data Guide, Croatia",
+    "id": "hrGuide",
+		"lang": "hr",
+		"spatial": "Croatia",
+    "flag": "Flag_of_Croatia.svg",
+		"homepage": "http://opendata.foi.hr/",
+		"format": "HTML",
+    "issued": "2016",
+		"creator": "The Faculty of Organization and Informatics (FoI) University of Zagreb/Office of the Information Commissioner",
+		"BPs": [{
+			"id": "cod",
+      "url": "http://opendata.foi.hr/#kriterijiOdabira",
+      "comment": "Kriteriji odabira i prioriteti prezentacije otvorenih podataka",
+      "lang": "hr"
+       }, {
+			"id": "zero",
+      "url": "http://opendata.foi.hr/#naplataKoristenjaPodataka",
+      "comment": "Naplata korištenja podataka i uvjeti njihovog korištenja",
+      "lang": "hr"
+      }, {
+			"id": "cas",
+      "url": "http://opendata.foi.hr/#strategijaObjave",
+      "comment": "Strategija objave otvorenih podataka",
+      "lang": "hr"
+      }, {
+			"id": "ef",
+      "url": "http://opendata.foi.hr/#organizacijaPoslovnihProcesa",
+      "comment": "Organizacija poslovnih procesa za isporuku podataka",
+      "lang": "hr"
+      }, {
+			"id": "iwyap",
+      "url": "http://opendata.foi.hr/#kriterijiOdabira",
+      "comment": "Kriteriji odabira i prioriteti prezentacije otvorenih podataka",
+      "lang": "hr"
+      }, {
+			"id": "portal",
+      "url": "http://opendata.foi.hr/#mehanizmiPubliciranja",
+      "comment": "Mehanizmi publiciranja",
+      "lang": "hr"
+      }, {
+			"id": "odpp",
+      "url": "http://opendata.foi.hr/#kriterijiOdabira",
+      "comment": "Kriteriji odabira i prioriteti prezentacije otvorenih podataka",
+      "lang": "hr"
+      }, {
+			"id": "eqa",
+      "url": "http://opendata.foi.hr/#organizacijaPoslovnihProcesa",
+      "comment": "Organizacija poslovnih procesa za isporuku podataka",
+      "lang": "hr"
+      }, {
+ 			"id": "hls",
+      "url": "http://opendata.foi.hr/#strategijaObjave",
+      "comment": "Strategija objave otvorenih podataka",
+      "lang": "hr"
+    }]
+  }, {
+    "title": "Open Data Resource Pack",
+    "id": "scotGuide",
+		"lang": "en",
+		"spatial": "Scotland",
+    "flag": "Flag_of_Scotland.svg",
+		"homepage": "http://www.gov.scot/Publications/2015/08/4093",
+		"format": "HTML",
+    "issued": "2015-08-17",
+		"creator": "The Scottish Government",
+		"BPs": [{
+			"id": "odbm",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/5",
+      "comment": "Start with a plan"
+    }, {
+			"id": "cod",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/6",
+      "comment": "Select your data"
+    }, {
+			"id": "zero",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/2",
+      "comment": "Existing Legislation"
+    }, {
+			"id": "dc",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/6",
+      "comment": "Select your data"
+    }, {
+			"id": "eode",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/9",
+      "comment": "You've published, now what?"
+    }, {
+			"id": "ef",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/9",
+      "comment": "You've published, now what?"
+    }, {
+			"id": "sgd",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/7",
+      "comment": "Create a dataset"
+    }, {
+			"id": "iwyap",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/6",
+      "comment": "Select your data"
+    }, {
+			"id": "portal",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/6",
+      "comment": "Select your data"
+    }, {
+			"id": "odpp",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/5",
+      "comment": "Start with a plan"
+    }, {
+			"id": "ptd",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/6",
+      "comment": "Select your data"
+    }, {
+			"id": "eqa",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/6",
+      "comment": "Select your data"
+    }, {
+			"id": "su",
+      "url": "http://www.gov.scot/Publications/2015/08/4093/9",
+      "comment": "You've published, now what?"
+    }, {
+			"id": "stats",
+      "url": "http://statistics.gov.scot/",
+      "comment": "Open Access to Official Statistics"
+    }, {
+			"id": "hls",
+      "url": "http://www.gov.scot/Publications/2015/02/6614",
+      "comment": "Open Data Strategy"
+    }]
+  }, {
+    "title": "Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico",
+    "titleEN": "National Development Guidelines for Public Sector Information",
+    "id": "itGuide",
+		"lang": "it",
+		"spatial": "Italy",
+    "flag": "Flag_of_Italy.svg",
+		"downloadURL": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf",
+		"format": "PDF",
+    "issued": "2014",
+		"creator": "Agenzia per l’Italia Digitale",
+		"BPs": [{
+			"id": "cas",
+      "url": "http://www.agid.gov.it/sites/default/files/documenti_indirizzo/agendanazionalepatrimioniopubblico2014.pdf#page=15",
+      "comment": "Tabella 1: Dataset &quot;chiave&quot; da rilasciare con relativo cronoprogramma",
+      "lang": "it"
+    }, {
+			"id": "odpp",
+      "url": "http://www.agid.gov.it/sites/default/files/documenti_indirizzo/agendanazionalepatrimioniopubblico2014.pdf#page=15",
+      "comment": "Agenda Nazionale Per La Valorizzazione Del Patrimonio Informativo Pubblico (2014)",
+      "lang": "it"
+    }, {
+			"id": "hm",
+      "comment": "new guide in preparation"
+    }, {
+			"id": "stats",
+      "comment": "new guide in preparation"
+    }, {
+			"id": "ft",
+      "url": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf#page=96",
+      "comment": "10.5 - Elementi di federazione",
+      "lang": "it"
+    }, {
+			"id": "sgd",
+      "url": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf#page=65",
+      "comment": "6.2.2 Formati per dati geospaziali",
+      "lang": "it"
+    }, {
+			"id": "dc",
+      "url": "http://www.agid.gov.it/sites/default/files/documenti_indirizzo/agendanazionalepatrimioniopubblico2014.pdf",
+      "comment": "Agenda Nazionale Per La Valorizzazione Del Patrimonio Informativo Pubblico (2014)",
+      "lang": "it"
+    }, {
+			"id": "zero",
+      "url": "http://www.agid.gov.it/sites/default/files/documenti_indirizzo/agendanazionalepatrimioniopubblico2014.pdf#page=85",
+      "comment": "Aspetti di costo del dato",
+      "lang": "it"
+    }, {
+			"id": "portal",
+      "url": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf#page=96",
+      "comment": "10.5 - Elementi di federazione",
+      "lang": "it"
+    }, {
+			"id": "ef",
+      "url": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf#page=56",
+      "comment": "5.2.4. Linea 4: Engagement (Coinvolgimento)",
+      "lang": "it"
+    }, {
+			"id": "eqa",
+      "comment": "new guide in preparation"
+    }]
+  }, {
+    "title": "Atvērto datu vadlīnijas",
+    "titleEN": "Open Data Guidelines",
+    "id": "lvGuide",
+		"lang": "lv",
+		"spatial": "Latvia",
+    "flag": "Flag_of_Latvia.svg",
+		"homepage": "http://opendata.lumii.lv/vadlinijas/1.0/",
+		"format": "HTML",
+    "issued": "2016-07-15",
+		"creator": "Uldis Bojārs, LU Matemātikas un informātikas institūts",
+		"BPs": [{
+			"id": "dc",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Kritēriji datu kopu atvēršanas prioritāšu definēšanai",
+      "lang": "lv"
+    }, {
+			"id": "portal",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Atvērto datu katalogi un to informācijas apkopošana",
+      "lang": "lv"
+    }, {
+			"id": "ft",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Atvērto datu katalogi un to informācijas apkopošana",
+      "lang": "lv"
+    }, {
+			"id": "eode",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Atvērto datu ekosistēma un dalībnieku (t.sk. <i>startup</i> uzņēmumu) iesaistīšana tajā",
+      "lang": "lv"
+    }, {
+			"id": "su",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Atvērto datu ekosistēma un dalībnieku (t.sk. <i>startup</i> uzņēmumu) iesaistīšana tajā",
+      "lang": "lv"
+    }, {
+			"id": "ef",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Iesaistīt lietotājus datu kopu publicēšanā un to kvalitātes uzlabošanā",
+      "lang": "lv"
+    }, {
+			"id": "ec",
+      "url": "http://opendata.lumii.lv/vadlinijas/1.0/#h.lky46oy2t522",
+      "comment": "Iesaistīt lietotājus datu kopu publicēšanā un to kvalitātes uzlabošanā",
+      "lang": "lv"
+    }, {
+			"id": "zero",
+      "url": "http://www.varam.gov.lv/lat/darbibas_veidi/e_parv/atvertie_dati/?doc=20449",
+      "comment": "Atvērtie dati - Pamatprincipi",
+      "lang": "lv"
+    }]
+  }, {
+    "title": "Avaandmete loomise ja avaldamise juhend",
+    "titleEN": "Open Data Guidelines",
+    "id": "eeGuide",
+		"lang": "et",
+		"spatial": "Estonia",
+    "flag": "Flag_of_Estonia.svg",
+		"downloadURL": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf",
+		"format": "PDF",
+    "issued": "2015",
+		"creator": "Riigi Infosüsteemi Amet",
+		"BPs": [{
+			"id": "ft",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=16",
+      "lang": "et"
+     }, {
+			"id": "ef",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=20",
+      "lang": "et"
+     }, {
+			"id": "hm",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=20",
+      "lang": "et"
+     }, {
+			"id": "eqa",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=21",
+      "lang": "et"
+     }, {
+			"id": "stats",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=11",
+      "lang": "et"
+     }]
+  }, {
+    "title": "Eesti avaliku teabe masinloetava avalikustamise roheline raamat",
+    "titleEN": "Green Paper on machine-readable Estonian Public Information disclosure",
+    "id": "eePaper",
+		"lang": "et",
+		"spatial": "Estonia",
+    "flag": "Flag_of_Estonia.svg",
+		"downloadURL": "https://opendata.riik.ee/sites/default/files/manuals/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt",
+		"format": "ODT",
+    "issued": "2014",
+		"creator": "Vabariigi Valitsus Eesti",
+		"BPs": [{
+			"id": "cas",
+      "comment": "Page 49",
+      "lang": "et"
+     }, {
+			"id": "portal",
+      "comment": "Page 37",
+      "lang": "et"
+     }, {
+			"id": "pomd",
+      "comment": "Page 38",
+      "lang": "et"
+     }, {
+			"id": "ord",
+      "comment": "Page 41",
+      "lang": "et"
+     }, {
+			"id": "hls",
+      "comment": "Page 49",
+      "lang": "et"
+     }]
+  }, {
+    "title": "Nyílt Adatok kézikönyv",
+    "titleEN": "Open Data Handbook",
+    "id": "huGuide",
+		"lang": "hu",
+		"spatial": "Hungary",
+    "flag": "Flag_of_Hungary.svg",
+		"downloadURL": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf",
+		"format": "PDF",
+    "issued": "2016-07-14 (original 2012-11-14)",
+		"creator": "W3C Hungarian Office",
+		"BPs": [{
+			"id": "cod",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=9",
+      "lang": "hu"
+     }, {
+			"id": "zero",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=10",
+      "lang": "hu"
+     }, {
+			"id": "cas",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=13",
+      "lang": "hu"
+     }, {
+			"id": "ec",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=10",
+      "lang": "hu"
+     }, {
+			"id": "ft",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=13",
+      "lang": "hu"
+     }, {
+			"id": "ef",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=10",
+      "lang": "hu"
+     }, {
+			"id": "hm",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=6",
+      "lang": "hu"
+     }, {
+			"id": "portal",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=13",
+      "lang": "hu"
+     }, {
+			"id": "odpp",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=9",
+      "lang": "hu"
+     }, {
+			"id": "hls",
+		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=8",
+      "lang": "hu"
+     }]
+  }, {
+    "title": "Open Data Handbook",
+    "id": "rsGuide",
+		"lang": "sr",
+		"spatial": "Serbia",
+    "flag": "Flag_of_Serbia.svg",
+		"homepage": "http://www.linkeddata.rs/OpenDataHandbook/",
+		"format": "HTML",
+    "issued": "2015-12-25",
+		"creator": "Valentina Janev, Mihajlo Pupin Institute",
+		"BPs": [{
+			"id": "cas",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Existing-Legislation",
+      "comment": "Pregled zakonskih odredbi",
+      "lang": "sr"
+    }, {
+			"id": "eode",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Existing-Legislation",
+      "comment": "Pregled zakonskih odredbi",
+      "lang": "sr"
+    }, {
+			"id": "zero",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Charges",
+      "comment": "Odluka o plaćanju nadoknade",
+      "lang": "sr"
+    }, {
+			"id": "dc",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Dataset-Criteria-and-Priorities",
+      "comment": "Kriterijumi i prioriteti",
+      "lang": "sr"
+    }, {
+			"id": "cod",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Dataset-Criteria-and-Priorities",
+      "comment": "Kriterijumi i prioriteti",
+      "lang": "sr"
+    }, {
+			"id": "iwyap",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Dataset-Criteria-and-Priorities",
+      "comment": "Kriterijumi i prioriteti",
+      "lang": "sr"
+    }, {
+			"id": "pomd",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Dataset-Criteria-and-Priorities",
+      "comment": "Kriterijumi i prioriteti",
+      "lang": "sr"
+    }, {
+			"id": "odpp",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Dataset-Criteria-and-Priorities",
+      "comment": "Kriterijumi i prioriteti",
+      "lang": "sr"
+    }, {
+			"id": "eqa",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Minimum-Requirements",
+      "comment": "Minimalni uslovi",
+      "lang": "sr"
+    }, {
+			"id": "ef",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Minimum-Requirements",
+      "comment": "Minimalni uslovi",
+      "lang": "sr"
+    }, {
+			"id": "portal",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Technical-Requirements",
+      "comment": "Tehničke Mogućnosti",
+      "lang": "sr"
+    }, {
+			"id": "ft",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Technical-Requirements",
+      "comment": "Tehničke Mogućnosti",
+      "lang": "sr"
+    }, {
+			"id": "ec",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Technical-Requirements",
+      "comment": "Tehničke Mogućnosti",
+      "lang": "sr"
+    }, {
+			"id": "sgd",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Scenarios-for-Opening-Up-Source-Data",
+      "comment": "Scenariji za otvaranje podataka",
+      "lang": "sr"
+    }, {
+			"id": "stats",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Scenarios-for-Opening-Up-Source-Data",
+      "comment": "Scenariji za otvaranje podataka",
+      "lang": "sr"
+    }, {
+			"id": "ptd",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Scenarios-for-Opening-Up-Source-Data",
+      "comment": "Scenariji za otvaranje podataka",
+      "lang": "sr"
+    }, {
+			"id": "ord",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/Scenarios-for-Opening-Up-Source-Data",
+      "comment": "Scenariji za otvaranje podataka",
+      "lang": "sr"
+    }, {
+			"id": "hm",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/The-Impact-of-Open-Data",
+      "comment": "Procena prakse otvorenih podataka",
+      "lang": "sr"
+    }, {
+			"id": "su",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/The-Impact-of-Open-Data",
+      "comment": "Procena prakse otvorenih podataka",
+      "lang": "sr"
+    }, {
+			"id": "odbm",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/The-Impact-of-Open-Data",
+      "comment": "Procena prakse otvorenih podataka",
+      "lang": "sr"
+    }, {
+			"id": "hls",
+      "url": "http://www.linkeddata.rs/OpenDataHandbook/1.0/What-Data-Should-Be-Public",
+      "comment": "Kako učiniti podatke otvorenima",
+      "lang": "sr"
+    }]
+	}, {
+    "title": "PSI Directive Implementation &amp; Internal Data Sharing Platform (draft)",
+    "id": "mtGuide",
+		"lang": "en",
+		"spatial": "Malta",
+    "flag": "Flag_of_Malta.svg",
+    "downloadURL": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf",
+		"format": "PDF",
+    "issued": "2016-07-21",
+		"creator": "MITA",
+		"BPs": [{
+			"id": "cas",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=18",
+      "comment": "4.1 Holistic Approach and Central Oversight"
+    }, {
+			"id": "ef",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=25",
+      "comment": "5.3.5 requests for Data and Feedback"
+    }, {
+			"id": "hls",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=28",
+      "comment": "7.1 Paradigm Shift"
+    }, {
+			"id": "cod",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=38",
+      "comment": "9.7.4 Traffic Lights Indicator, 9.7.7 Open Data Readiness"
+    }, {
+			"id": "dc",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=38",
+      "comment": "9.7.5 Business Impact Indicators, 9.7.6 Risk Level Indicators"
+    }, {
+			"id": "eqa",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=37",
+      "comment": "9.7.3 Data Quality Indicators"
+    }, {
+			"id": "iwyap",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=21",
+      "comment": "4.10 Linked Officaial Registers, 6.3 Catalogue of Datasets, 6.3 Register of Registers"
+    }, {
+			"id": "portal",
+      "url": "https://www.w3.org/2013/share-psi/wiki/images/c/c0/Data-Driven_Public_Administration_(Malta).pdf#page=27",
+      "comment": "6.5.1 Open Data Portal, 6.5.2 data Sharing Platform"
+    }]
+  }, {
+    "title": "Priročnik za odpiranje podatkov javnega sektorja",
+    "titleEN": "Manual for the opening of public sector information",
+    "id": "siGuide",
+		"lang": "sl",
+		"spatial": "Slovenia",
+    "flag": "Flag_of_Slovenia.svg",
+    "downloadURL": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf",
+		"format": "PDF",
+    "issued": "2016-06",
+		"creator": "Ministry of Public Administration",
+		"BPs": [{
+			"id": "odbm",
+		  "url": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf#page=24",
+      "lang": "sl"
+     }, {
+			"id": "cod",
+		  "url": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf#page=27",
+      "lang": "sl"
+     }, {
+			"id": "zero",
+		  "url": "http://www.mju.gov.si/si/delovna_podrocja/transparentnost_in_dostop_do_informacij_javnega_znacaja/aktualno/",
+      "lang": "sl",
+      "comment": "Transparentnost In Dostop Do Informacij Javnega Značaja/Aktuelno"
+     }, {
+			"id": "cas",
+      "comment": "future plans"
+     }, {
+			"id": "ec",
+      "comment": "future open data portal"
+     }, {
+			"id": "dc",
+		  "url": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf#page=23",
+      "lang": "sl"
+     }, {
+			"id": "eode",
+      "comment": "future open data portal"
+     }, {
+			"id": "sgd",
+		  "url": "http://gis.arso.gov.si/wfs_web/faces/WFSLayersList.jspx",
+      "lang": "sl",
+      "comment": "Spletna objektna storitev (WFS) za izdajanje okoljskih prostorskih podatkov"
+     }, {
+			"id": "hm",
+      "comment": "future plans"
+     }, {
+			"id": "ptd",
+		  "url": "http://test.jpp.si/web/guest/domaca-stran",
+      "lang": "sl",
+      "comment": "Domov - IJPP"
+     }, {
+			"id": "eqa",
+		  "url": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf#page=7",
+      "lang": "sl"
+     }, {
+			"id": "ord",
+      "comment": "future plans"
+     }, {
+			"id": "ord",
+      "comment": "future open data portal"
+     }, {
+			"id": "hls",
+		  "url": "http://www.mju.gov.si/en/areas_of_work/quality_in_public_administration/",
+      "comment": "Quality in Public Administration"
+     }]
+  }, {
+    "title": "Birmingham and West Midlands Localised Guide for Open Data",
+    "id": "wmGuide",
+		"lang": "en",
+		"spatial": "UK",
+    "flag": "Flag_of_the_United_Kingdom.svg",
+		"format": "PDF",
+		"creator": "Birmingham City Council",
+		"BPs": [{
+			"id": "cas",
+      "comment": "3.3.1 Cross Sector"
+     }, {
+			"id": "dc",
+      "comment": "3.2.1 Building Trust"
+     }, {
+			"id": "eode",
+      "comment": "3.3.2 Business, 3.3.3 Community"
+     }, {
+			"id": "ef",
+      "comment": "3.3.3 Community"
+     }, {
+			"id": "sgd",
+      "comment": "3.2.5 Standards"
+     }, {
+			"id": "iwyap",
+      "comment": "3.1 Targeting data to release"
+     }, {
+			"id": "odpp",
+      "comment": "3.1 Targeting data to release"
+     }, {
+			"id": "ptd",
+      "comment": "3.2.2 Automation"
+     }, {
+			"id": "eqa",
+      "comment": "3.2.1 Building Trust"
+     }, {
+			"id": "su",
+      "comment": "3.3.3 Business"
+     }]
+	}, {
+    "title": "Handreiking bij openen van data",
+    "titleEN": "Guidance on Open Data",
+    "id": "nlGuide",
+		"lang": "nl",
+		"spatial": "Netherlands",
+    "flag": "Flag_of_the_Netherlands.svg",
+    "homepage": "https://data.overheid.nl/handreiking-bij-openen-van-data",
+		"format": "HTML",
+		"creator": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+		"BPs": [{
+			"id": "dc",
+      "url": "https://data.overheid.nl/stap-3a-selecteer-de-te-publiceren-datasets",
+      "comment": "Stap 3a: Selecteer de te publiceren datasets",
+      "lang": "nl"
+     }, {
+			"id": "iwyap",
+      "url": "https://data.overheid.nl/stap-1-inventariseer-de-datasets",
+      "comment": "Stap 1: Inventariseer de datasets",
+      "lang": "nl"
+     }, {
+			"id": "odpp",
+      "url": "https://data.overheid.nl/stap-3b-beleg-de-verantwoordelijkheden-en-plan-het-proces",
+      "comment": "Stap 3b: Beleg de verantwoordelijkheden en plan het proces",
+      "lang": "nl"
+     }]
+  }]
+}

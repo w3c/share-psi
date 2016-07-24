@@ -1,0 +1,468 @@
+{
+    "meta": {
+        "title": "The Share-PSI Best Practices" ,
+
+    "elements": [
+               {
+                  "title": "Policies and Legislation", 
+                  "sub": "Legal requirements, licenses etc. licensing of information, data and metadata", 
+                  "id": "policy"
+               },
+               {
+                  "title": "Platforms", 
+                  "sub": "Open data platform(s), publication and deployment of information, data and metadata",
+                  "id": "platforms"
+               },
+               {
+                  "title": "Dataset criteria", 
+                  "sub": "Dataset criteria, priorities, value and scope",
+                  "id": "criteria"
+               },
+               {
+                  "title": "Charging", 
+                  "sub": "Charging issues and proposals",
+                  "id": "charging"
+               },
+               {
+                  "title": "Techniques", 
+                  "sub": "Techniques for opening data, technical requirements and tools.",
+                  "id": "techniques"
+               },
+               {
+                  "title": "Organisation", 
+                  "sub": "How to organise PSI sharing, necessary functions and communications",
+                  "id": "organisation"
+               },
+               {
+                  "title": "Formats", 
+                  "sub": "Dataset structures, formats, APIs",
+                  "id": "formats"
+               },
+               {
+                  "title": "Reuse", 
+                  "sub": "Encouraging (commercial) re-use",
+                  "id": "reuse"
+               },
+               {
+                  "title": "Persistence", 
+                  "sub": "Persistence and maintenance of data and metadata",
+                  "id": "persistence"
+               },
+               {
+                  "title": "Quality", 
+                  "sub": "Data quality issues and solutions, quality assurance, feedback channels and evaluation.",
+                  "id": "quality"
+               },
+               {
+                  "title": "Documentation", 
+                  "sub": "Documentation of information/data, creation of metadata.",
+                  "id": "Documentation"
+               },
+               {
+                  "title": "Selection", 
+                  "sub": "Selection of information/data to be published according to various criteria.",
+                  "id": "selection"
+               },
+               {
+                  "title": "Discoverability", 
+                  "sub": "Data discoverability.",
+                  "id": "discoverability"
+               }
+           ],
+
+		"BPs": [
+              {
+                "title": "Develop and Implement a Cross Agency Strategy", 
+                "src" : "s", 
+                "id": "cas", 
+                "elements": ["policy"], 
+                "sortAs": "crossagencystrategy"
+              },
+              {
+                "title": "Develop an Open Data Publication Plan", 
+                "src" : "s", 
+                "id": "odpp", 
+                "elements": ["policy"], 
+                "sortAs": "publicationplan" 
+              },
+              {
+                "title": "Establish an Open Data Ecosystem", 
+                "src" : "s", 
+                "id": "eode", 
+                "elements": ["organisation", "platforms", "criteria", "charging", "reuse", "selection", "discoverability", "quality"], 
+                "sortAs": "ecosystem" 
+              },
+              {
+                "title": "(Re)use federated tools", 
+                "src" : "s", 
+                "id": "ft", 
+                "elements": ["platforms", "techniques", "organisation", "formats", "reuse", "persistence", "documentation"], 
+                "sortAs": "federation" 
+              },
+              {
+                "title": "Open Up Public Transport Data", 
+                "src" : "s", 
+                "id": "ptd", 
+                "elements": ["policy"], 
+                "sortAs": "publictransportdata" 
+              },
+              {
+                "title": "Support Open Data Start Ups", 
+                "src" : "s", 
+                "id": "su", 
+                "elements": ["policy", "reuse"],
+                "sortAs": "startups" 
+              },
+              {
+                "title": "Encourage crowdsourcing around PSI", 
+                "src" : "s", 
+                "id": "ec", 
+                "elements": ["policy", "platforms"], 
+                "sortAs": "crowdsourcing" 
+              },
+              {
+                "title": "Standards for Geospatial Data", 
+                "src" : "s", 
+                "id": "sgd", 
+                "elements": ["platforms", "techniques", "formats", "reuse", "discoverability"], 
+                "sortAs": "geospatial" 
+              },
+              {
+                "title": "Dataset Criteria", 
+                "src" : "s", 
+                "id": "dc", 
+                "elements": ["criteria"], 
+                "sortAs": "datasetcriteria" 
+              },
+              {
+                "title": "Establish Open Government Portal for data sharing", 
+                "src" : "s", 
+                "id": "portal", 
+                "elements": ["techniques", "platforms", "discoverability"], 
+                "sortAs": "opengovernmentportal" 
+              },
+              {
+                "title": "Enable feedback channels for improving the quality of existing government data", 
+                "src" : "s", 
+                "id": "ef", 
+                "elements": ["policy", "platforms"], 
+                "sortAs": "feedback" 
+              },
+              {
+                "title": "Enable quality assessment of open data", 
+                "src" : "s", 
+                "id": "eqa", 
+                "elements": ["quality"], 
+                "sortAs": "qualityassessment" 
+              },
+              {
+                "title": "Identify what you already publish", 
+                "src" : "s", 
+                "id": "iwyap", 
+                "elements": ["selection"], 
+                "sortAs": "identifywhatyoualreadypublish" 
+              },
+              {
+                "title": "Publish overview of managed data", 
+                "src" : "s", 
+                "id": "pomd", 
+                "elements": ["selection"], 
+                "sortAs": "overviewofmanageddata" 
+              },
+              {
+                "title": "Categorise openness of data", 
+                "src" : "s", 
+                "id": "cod", 
+                "elements": ["selection"], 
+                "sortAs": "categorise" 
+              },
+
+              {
+                "title": "Provide metadata", 
+                "src": "w", 
+                "id": "ProvideMetadata", 
+                "elements": ["platforms", "techniques", "discoverability"], 
+                "sortAs": "metadata" 
+              },
+              {
+                "title": "Provide descriptive metadata", 
+                "src": "w", 
+                "id": "DescriptiveMetadata", 
+                "elements": ["platforms", "techniques", "discoverability"], 
+                "sortAs": "metadatadescriptive" 
+              },
+              {
+                "title": "Provide locale parameters metadata", 
+                "src": "w", 
+                "id": "LocaleParametersMetadata", 
+                "elements": ["techniques", "discoverability", "reuse"], 
+                "sortAs": "metadatalocale" 
+              },
+              {
+                "title": "Provide structural metadata", 
+                "src": "w", 
+                "id": "StructuralMetadata", 
+                "elements": ["techniques", "reuse"], 
+                "sortAs": "metadatastructural" 
+              },
+              {
+                "title": "Provide data license information", 
+                "src": "w", 
+                "id": "DataLicense", 
+                "elements": ["reuse"], 
+                "sortAs": "license"
+              },
+              {
+                "title": "Provide data provenance information", 
+                "src": "w", 
+                "id": "DataProvenance", 
+                "elements": ["reuse", "quality", "documentation"], 
+                "sortAs": "provenance" 
+              },
+              {
+                "title": "Provide data quality information", 
+                "src": "w", 
+                "id": "DataQuality", 
+                "elements": ["quality"], 
+                "sortAs": "metadataquality"
+              },
+              {
+                "title": "Provide a version indicator", 
+                "src": "w", 
+                "id": "VersioningInfo", 
+                "elements": ["quality", "reuse", "techniques"], 
+                "sortAs": "versioninformation" 
+              },
+              {
+                "title": "Provide version history", 
+                "src": "w", 
+                "id": "VersionHistory", 
+                "elements": ["quality", "reuse", "techniques", "persistence"], 
+                "sortAs": "versionhisotry" 
+              },
+              {
+                "title": "Use persistent URIs as identifiers of datasets", 
+                "src": "w", 
+                "id": "UniqueIdentifiers", 
+                "elements": ["reuse", "techniques", "persistence", "discoverability", "formats", "quality"], 
+                "sortAs": "persistenturisdataset" 
+              },
+              {
+                "title": "Use persistent URIs as identifiers within datasets", 
+                "src": "w", 
+                "id": "identifiersWithinDatasets", 
+                "elements": ["reuse", "techniques", "persistence", "discoverability", "formats", "quality"], 
+                "sortAs": "persistenturiswithindataset" 
+              },
+              {
+                "title": "Assign URIs to dataset versions and series", 
+                "src": "w", 
+                "id": "VersionIdentifiers", 
+                "elements": ["techniques", "persistence", "discoverability", "quality"], 
+                "sortAs": "urisversions" 
+              },
+              {
+                "title": "Use machine-readable standardized data formats", 
+                "src": "w", 
+                "id": "MachineReadableStandardizedFormat", 
+                "elements": ["formats"], 
+                "sortAs": "formatsstandardised" 
+              },
+              {
+                "title": "Provide data in multiple formats", 
+                "src": "w", 
+                "id": "MultipleFormats", 
+                "elements": ["formats"], 
+                "sortAs": "formatsmultiple" 
+              },
+              {
+                "title": "Reuse vocabularies, preferably standardized ones", 
+                "src": "w", 
+                "id": "ReuseVocabularies", 
+                "elements": ["techniques"], 
+                "sortAs": "vocabularyreuse" 
+              },
+              {
+                "title": "Choose the right formalization level", 
+                "src": "w", 
+                "id": "ChooseRightFormalizationLevel", 
+                "elements": ["techniques"], 
+                "sortAs": "formalisationlevel" 
+              },
+              {
+                "title": "Provide bulk download",
+                "src": "w", 
+                "id": "BulkAccess", 
+                "elements": ["techniques", "formats"], 
+                "sortAs": "bulkdownload" 
+              },
+              {
+                "title": "Provide Subsets for Large Datasets",
+                "src": "w", 
+                "id": "ProvideSubsets", 
+                "elements": ["techniques", "reuse"], 
+                "sortAs": "subsets" 
+              },
+              {
+                "title": "Use content negotiation for serving data available in multiple formats",
+                "src": "w", 
+                "id": "Conneg", 
+                "elements": ["techniques"], 
+                "sortAs": "conneg" 
+              },
+              {
+                "title": "Provide real-time access", 
+                "src": "w", 
+                "id": "AccessRealTime", 
+                "elements": ["reuse", "selection"], 
+                "sortAs": "realtime" 
+              },
+              {
+                "title": "Provide data up to date", 
+                "src": "w", 
+                "id": "AccessUptoDate", 
+                "elements": ["techniques"], 
+                "sortAs": "uptodate" 
+              },
+              {
+                "title": "Provide an explanation for data that is not available", 
+                "src": "w", 
+                "id": "DataUnavailabilityReference", 
+                "elements": ["documentation", "discoverability"], 
+                "sortAs": "explainunavailable" 
+              },
+              {
+                "title": "Make data available through an API", 
+                "src": "w", 
+                "id": "useanAPI", 
+                "elements": ["reuse", "techniques"], 
+                "sortAs": "dataapi" 
+              },
+              {
+                "title": "Use Web Standards as the foundation of APIs", 
+                "src": "w", 
+                "id": "APIHttpVerbs", 
+                "elements": ["techniques"], 
+                "sortAs": "httpverbs" 
+              },
+              {
+                "title": "Provide complete documentation for your API", 
+                "src": "w", 
+                "id": "documentYourAPI", 
+                "elements": ["techniques", "documentation"], 
+                "sortAs": "documenatapi" 
+              },
+              {
+                "title": "Avoid Breaking Changes to Your API", 
+                "src": "w", 
+                "id": "avoidBreakingChangesAPI", 
+                "elements": ["techniques", "documentation"], 
+                "sortAs": "dontbreakapi" 
+              },
+              {
+                "title": "Preserve identifiers", 
+                "src": "w", 
+                "id": "ResourceStatus", 
+                "elements": ["techniques", "persistence", "quality"], 
+                "sortAs": "nobrokenlinks" 
+              },
+              {
+                "title": "Assess dataset coverage", 
+                "src": "w", 
+                "id": "EvaluateCoverage", 
+                "elements": ["documentation", "discoverability", "persistence"], 
+                "sortAs": "coverage" 
+              },
+              {
+                "title": "Gather feedback from data consumers", 
+                "src": "w", 
+                "id": "GatherFeedback", 
+                "elements": ["selection", "quality"], 
+                "sortAs": "feedbackconsumers" 
+              },
+              {
+                "title": "Make feedback available", 
+                "src": "w", 
+                "id": "FeedbackInformation", 
+                "elements": ["techniques", "quality"], 
+                "sortAs": "feedbackinformation" 
+              },
+              {
+                "title": "Enrich data by generating new metadata", 
+                "src": "w", 
+                "id": "EnrichData", 
+                "elements": ["techniques", "quality"], 
+                "sortAs": "enrichment" 
+              },
+              {
+                "title": "Provide Complementary Presentations", 
+                "src": "w", 
+                "id": "ProvideComplementaryPresentations", 
+                "elements": ["techniques", "quality", "reuse", "platforms"], 
+                "sortAs": "presentations" 
+              },
+              {
+                "title": "Provide Feedback to the Original Publisher", 
+                "src": "w", 
+                "id": "ProvideFeedbackToPublisher", 
+                "elements": ["selection", "quality", "platforms"], 
+                "sortAs": "presentations" 
+              },
+              {
+                "title": "Follow Licensing Terms", 
+                "src": "w", 
+                "id": "FollowLicensingTerms", 
+                "elements": ["reuse"], 
+                "sortAs": "licensing" 
+              },
+              {
+                "title": "Cite the Original Publication", 
+                "src": "w", 
+                "id": "CiteOriginalPublication", 
+                "elements": ["reuse"], 
+                "sortAs": "citeoriginal" 
+              },
+              {
+                "title": "Publish Statistical Data In Linked Data Format", 
+                "src": "s", 
+                "id": "stats", 
+                "elements": ["techniques"], 
+                "sortAs": "statistics" 
+              },
+              {
+                "title": "Holistic Metrics", 
+                "src": "s", 
+                "id": "hm", 
+                "elements": ["policy", "charging"], 
+                "sortAs": "holistic"
+              },
+              {
+                "title": "Open Data Business Models & Value Disciplines", 
+                "src": "s", 
+                "id": "odbm", 
+                "elements": ["organisation", "reuse", "charging"], 
+                "sortAs": "business"
+              },              {
+                "title": "Open Up Research Data", 
+                "src": "s", 
+                "id": "ord", 
+                "elements": ["policy"], 
+                "sortAs": "research"
+              },
+              {
+                "title": "Provide PSI at zero charge", 
+                "src": "s", 
+                "id": "zero", 
+                "elements": ["charging", "policy"], 
+                "sortAs": "charging"
+              },              {
+                "title": "High Level Support", 
+                "src": "s", 
+                "id": "hls", 
+                "elements": ["organisation", "policy"], 
+                "sortAs": "high"
+              }
+        ]
+    }
+}
+
