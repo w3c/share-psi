@@ -654,9 +654,10 @@
 		"spatial": "Spain",
     "group": "Spain",
     "flag": "Flag_of_Spain.svg",
+    "date": "2012-05-08",
 		"homepage": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace",
 		"format": "HTML",
-		"creator": "GNOSS",
+		"creator": "Open Data Spain Community Group",
 		"BPs": [{
 			"id": "ef",
 			"url": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace#punto6",
@@ -830,10 +831,10 @@
 		"spatial": "EU",
     "group": "International",
     "flag": "Flag_of_Europe.svg",
-		"landingPage": "http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=OA0115858",
+		"landingPage": "http://data.europa.eu/doi/10.2830/813167 ",
 		"format": "PDF",
     "issued": "2015",
-		"creator": "Makx Dekkers for the Publications Office of the European Union",
+		"creator": "ELI Task Force/Publications Office of the European Union",
 		"BPs": [{
 			"id": "eode",
       "comment": "GP1: Building on the knowledge and experience of others"
@@ -853,8 +854,8 @@
     "flag": "Flag_of_Europe.svg",
 		"landingPage": "https://joinup.ec.europa.eu/asset/dcat-ap_implementation_guidelines/description",
 		"format": "HTML",
-    "issued": "2015",
-		"creator": "European Commission",
+    "issued": "April 2016",
+		"creator": "European Commission, DG DIGIT, ISA programme",
 		"BPs": [{
 			"id": "ft",
       "url": "https://joinup.ec.europa.eu/node/150350/",
@@ -1182,7 +1183,7 @@
 		"downloadURL": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf",
 		"format": "PDF",
     "issued": "2016-07-14 (original 2012-11-14)",
-		"creator": "W3C Hungarian Office",
+		"creator": "László Detvay, Éva Vir ág, András Micsik for W3C Hungarian Office",
 		"BPs": [{
 			"id": "cod",
 		  "url": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf#page=9",
@@ -1459,37 +1460,49 @@
 		"spatial": "UK",
     "group": "UK",
     "flag": "Flag_of_the_United_Kingdom.svg",
+    "downloadURL": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf",
 		"format": "PDF",
+    "date": "2016-06-01",
 		"creator": "Birmingham City Council",
 		"BPs": [{
 			"id": "cas",
-      "comment": "3.3.1 Cross Sector"
+      "comment": "3.3.1 Cross Sector",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=9"
      }, {
 			"id": "dc",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=6",
       "comment": "3.2.1 Building Trust"
      }, {
 			"id": "eode",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=10",
       "comment": "3.3.2 Business, 3.3.3 Community"
      }, {
 			"id": "ef",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=10",
       "comment": "3.3.3 Community"
      }, {
 			"id": "sgd",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=8",
       "comment": "3.2.5 Standards"
      }, {
 			"id": "iwyap",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=5",
       "comment": "3.1 Targeting data to release"
      }, {
 			"id": "odpp",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=5",
       "comment": "3.1 Targeting data to release"
      }, {
 			"id": "ptd",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=7",
       "comment": "3.2.2 Automation"
      }, {
 			"id": "eqa",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=6",
       "comment": "3.2.1 Building Trust"
      }, {
 			"id": "su",
+      "url": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf#page=9",
       "comment": "3.3.3 Business"
      }]
 	}, {
@@ -1513,11 +1526,93 @@
       "url": "https://data.overheid.nl/stap-1-inventariseer-de-datasets",
       "comment": "Stap 1: Inventariseer de datasets",
       "lang": "nl"
+     }]
+	}, {
+    "title": "Helsinki Region Infoshare",
+    "id": "hriGuide",
+		"lang": "en",
+		"spatial": "Finland",
+    "group": "Finland",
+    "flag": "Flag_of_Helsinki.svg",
+    "homepage": "http://www.hri.fi/en/",
+		"format": "HTML",
+		"creator": "Forum Virium Helsinki",
+		"BPs": [{
+			"id": "zero",
+      "url": "http://www.hri.fi/en/open-data/",
+      "comment": "Abour Open Data"
+     }, {
+			"id": "eode",
+      "url": "http://www.hri.fi/en/about/helsinki-loves-developers/",
+      "comment": "Helsinki Loves Developers"
+     }, {
+			"id": "sgd",
+      "url": "http://www.hri.fi/fi/ajankohtaista/hrin-vuosi-2015-yhteistyota-ja-lisaa-paikkatietoavauksia/",
+      "comment": "HRI:n vuosi 2015: yhteistyötä ja lisää paikkatietoavauksia",
+      "lang": "fi"
+     }, {
+			"id": "iwyap",
+      "url": "http://www.hri.fi/en/about/open-data-pipeline/",
+      "comment": "Open Data Pipleline"
+     }, {
+			"id": "portal",
+      "url": "http://www.hri.fi/en/",
+      "comment": "Helsinki Region Infoshare"
+     }, {
+			"id": "pomd",
+      "url": "http://www.hri.fi/en/news/helsinki-opens-a-window-to-its-information-systems/",
+      "comment": "Helsinki opens a window to its information systems"
      }, {
 			"id": "odpp",
-      "url": "https://data.overheid.nl/stap-3b-beleg-de-verantwoordelijkheden-en-plan-het-proces",
-      "comment": "Stap 3b: Beleg de verantwoordelijkheden en plan het proces",
-      "lang": "nl"
+      "url": "http://www.hri.fi/en/about/",
+      "comment": "About Helsinki Region Infoshare"
+     }, {
+			"id": "ptd",
+      "url": "http://www.hri.fi/fi/dataset/hsl-reittiopas-api",
+      "comment": "HSL Reittiopas API",
+      "lang": "fi"
+     }, {
+			"id": "stats",
+      "url": "http://www.hri.fi/fi/dataset/semantic-hri-fi--paakaupunkiseutua-koskevaa-tilastotietoa-avoimena-linkitettyna-datana",
+      "comment": "semantic.hri.fi",
+      "lang": "fi"
+     }]
+  }, {
+    "title": "Guia Dados Abertos - AMA | Dados.gov",
+    "id": "ptGuide",
+		"lang": "pt",
+		"spatial": "Portugal",
+    "group": "Portugal",
+    "flag": "Flag_of_Portugal.svg",
+		"format": "PDF",
+		"creator": "Agência para a Modernização Administrativa",
+		"BPs": [{
+			"id": "zero",
+      "comment": "Page 5"
+     }, {
+			"id": "dc",
+      "comment": "Page 21"
+     }, {
+			"id": "eode",
+      "comment": "Page 20"
+     }, {
+			"id": "ef",
+      "comment": "Page 26"
+     }, {
+			"id": "sgd",
+      "comment": "Page 35"
+     }, {
+			"id": "portal",
+      "comment": "Page 23"
+     }, {
+			"id": "pomd",
+      "comment": "Page 19"
+     }, {
+			"id": "odpp",
+      "comment": "Page 17"
+     }, {
+			"id": "ptd",
+      "comment": "Page 13"
      }]
  	}, {
     "title": "Open Data Handleiding",
@@ -1528,7 +1623,7 @@
     "group": "Belgium",
     "flag": "Flag_of_Flanders.svg",
     "downloadURL": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf",
-    "landingpage": "https://overheid.vlaanderen.be/open-data-handleiding",
+    "landingPage": "https://overheid.vlaanderen.be/open-data-handleiding",
 		"format": "PDF",
 		"creator": "Vlaamse overheid",
 		"BPs": [{
@@ -1543,7 +1638,7 @@
 			"id": "cas",
       "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
       "lang": "nl"
-     } , {
+     }, {
 			"id": "ec",
       "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=10",
       "lang": "nl"
