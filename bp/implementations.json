@@ -1519,10 +1519,106 @@
       "comment": "Stap 3b: Beleg de verantwoordelijkheden en plan het proces",
       "lang": "nl"
      }]
+ 	}, {
+    "title": "Open Data Handleiding",
+    "titleEN": "Open Data Handbook",
+    "id": "vlGuide",
+		"lang": "nl",
+		"spatial": "Flanders",
+    "group": "Belgium",
+    "flag": "Flag_of_Flanders.svg",
+    "downloadURL": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf",
+    "landingpage": "https://overheid.vlaanderen.be/open-data-handleiding",
+		"format": "PDF",
+		"creator": "Vlaamse overheid",
+		"BPs": [{
+			"id": "cod",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "zero",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=12",
+      "lang": "nl"
+     }, {
+			"id": "cas",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     } , {
+			"id": "ec",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=10",
+      "lang": "nl"
+     }, {
+			"id": "dc",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "eode",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "ft",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "ef",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "sgd",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=15",
+      "lang": "nl"
+     }, {
+			"id": "hm",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=4",
+      "lang": "nl"
+     }, {
+			"id": "iwyap",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "portal",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=40",
+      "lang": "nl"
+     }, {
+			"id": "pomd",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=88",
+      "lang": "nl"
+     }, {
+			"id": "odpp",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=89",
+      "lang": "nl"
+     }, {
+			"id": "ptd",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=15",
+      "lang": "nl"
+     }, {
+			"id": "eqa",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=40",
+      "lang": "nl"
+     }, {
+			"id": "ord",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=15",
+      "lang": "nl"
+     }, {
+			"id": "su",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=8",
+      "lang": "nl"
+     }, {
+			"id": "stats",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=87",
+      "lang": "nl"
+     }, {
+			"id": "hls",
+      "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=4",
+      "lang": "nl"
+     }]
   }],
   "groupFlags": [{
     "id": "Netherlands",
     "flag": "Flag_of_the_Netherlands.svg"
+  },{
+    "id": "Belgium",
+    "flag": "Flag_of_Belgium.svg"
   }, {
     "id": "Romania",
     "flag": "Flag_of_Romania.svg"
