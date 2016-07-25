@@ -163,7 +163,7 @@
 		"BPs": [{
 			"id": "odbm",
 			"url": "https://www.avoindata.fi/fi/opas/analysoi",
-      "Comment": "2.4. Käyttäjätarpeet ja kysyntä",
+      "comment": "2.4. Käyttäjätarpeet ja kysyntä",
       "lang": "fi"
 		}, {
 			"id": "cod",
