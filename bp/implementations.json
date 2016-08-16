@@ -1709,7 +1709,105 @@
       "url": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf#page=4",
       "lang": "nl"
      }]
-  }],
+  }, 
+{
+    "title": "Viešojo Sektoriaus Informacijos platinimo gerosios praktikos",
+    "titleEN": "Best Practices for Sharing Public Sector Information",
+    "id": "ltGuide",
+		"lang": "lt",
+		"spatial": "Lithuania",
+    "group": "Lithuania",
+    "flag": "Flag_of_Lithuania.svg",
+    "landingPage": "http://bit.ly/SharePSI2LT",
+		"format": "HTML",
+		"creator": "UAB Linked Data",
+		"BPs": [{
+			"id": "odbm",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.jr8w0vxi1vq0",
+      "lang": "lt"
+     }, {
+			"id": "cod",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.cxh38k3vhj0b",
+      "lang": "lt"
+     }, {
+			"id": "zero",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.j9p0rly5q9q",
+      "lang": "lt"
+     }, {
+			"id": "cas",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.atxiefyx8m9y",
+      "lang": "lt"
+     }, {
+			"id": "ec",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.63zft8y2o8nu",
+      "lang": "lt"
+     }, {
+			"id": "dc",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.4ywofjta36jq",
+      "lang": "lt"
+     }, {
+			"id": "eode",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.isawo6ajyap3",
+      "lang": "lt"
+     }, {
+			"id": "ft",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.ky882rnbmuuz",
+      "lang": "lt"
+     }, {
+			"id": "ef",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.1qtr2zrkp4qj",
+      "lang": "lt"
+     }, {
+			"id": "sgd",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.k9tjv2i7o0m9",
+      "lang": "lt"
+     }, {
+			"id": "hm",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.y7giidfyay7g",
+      "lang": "lt"
+     }, {
+			"id": "iwyap",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.bggqsaxj6ej",
+      "lang": "lt"
+     }, {
+			"id": "portal",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.5k0ogfmwt35v",
+      "lang": "lt"
+     }, {
+			"id": "pomd",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.m5zeb7sho4hn",
+      "lang": "lt"
+     }, {
+			"id": "odpp",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.g9fxct44ysn4",
+      "lang": "lt"
+     }, {
+			"id": "ptd",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.ltqvn1pooeqi",
+      "lang": "lt"
+     }, {
+			"id": "eqa",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.pqty7ax9h42p",
+      "lang": "lt"
+     }, {
+			"id": "ord",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.7oy8tvmxj5ha",
+      "lang": "lt"
+     }, {
+			"id": "su",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.y883r7jyayxf",
+      "lang": "lt"
+     }, {
+			"id": "stats",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.yvjiw7fncvhy",
+      "lang": "lt"
+     }, {
+			"id": "hls",
+      "url": "http://bit.ly/SharePSI2LT#bookmark=id.do9cou133bzu",
+      "lang": "lt"
+     }]
+  }
+  ],
   "groupFlags": [{
     "id": "Netherlands",
     "flag": "Flag_of_the_Netherlands.svg"
@@ -1773,5 +1871,8 @@
   }, {
     "id": "Portugal",
     "flag": "Flag_of_Portugal.svg"
+  }, {
+    "id": "Lithuania",
+    "flag": "Flag_of_Lithuania.svg"
   }]
 }
