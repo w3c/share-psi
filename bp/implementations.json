@@ -1114,29 +1114,29 @@
 		"spatial": "Estonia",
     "group": "Estonia",
     "flag": "Flag_of_Estonia.svg",
-		"downloadURL": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf",
+		"downloadURL": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf",
 		"format": "PDF",
     "issued": "2015",
 		"creator": "Riigi Infosüsteemi Amet",
 		"BPs": [{
 			"id": "ft",
-      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=16",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf#page=16",
       "lang": "et"
      }, {
 			"id": "ef",
-      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=20",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf#page=20",
       "lang": "et"
      }, {
 			"id": "hm",
-      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=20",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf#page=20",
       "lang": "et"
      }, {
 			"id": "eqa",
-      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=21",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf#page=21",
       "lang": "et"
      }, {
 			"id": "stats",
-      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend_v1.0.pdf#page=11",
+      "url": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf#page=11",
       "lang": "et"
      }]
   }, {
@@ -1718,7 +1718,7 @@
 		"spatial": "Lithuania",
     "group": "Lithuania",
     "flag": "Flag_of_Lithuania.svg",
-    "landingPage": "http://bit.ly/SharePSI2LT",
+    "homepage": "http://bit.ly/SharePSI2LT",
 		"format": "HTML",
 		"creator": "UAB Linked Data",
 		"BPs": [{
