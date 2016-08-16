@@ -1807,8 +1807,48 @@
       "url": "http://bit.ly/SharePSI2LT#bookmark=id.do9cou133bzu",
       "lang": "lt"
      }]
-  }
-  ],
+  }, {
+    "title": "Using Open Public Sector Information",
+    "id": "togGuide",
+		"lang": "en",
+		"spatial": "World",
+    "group": "International",
+    "issued": "2016-07",
+    "landingPage": "https://www2.opengroup.org/ogsys/catalog/r160",
+		"format": "PDF",
+		"creator": "The Open Group",
+		"BPs": [{
+			"id": "odbm",
+      "comment": "Business Architecture"
+     }, {
+			"id": "zero",
+      "comment": "Business Architecture"
+     }, {
+			"id": "eode",
+      "comment": "Architecture Vision"
+     }, {
+			"id": "ft",
+      "comment": "Technology Architecture"
+     }, {
+			"id": "ef",
+      "comment": "Business Architecture"
+     }, {
+			"id": "sgd",
+      "comment": "Technology Architecture"
+     }, {
+			"id": "portal",
+      "comment": "Architecture Vision"
+     }, {
+			"id": "pomd",
+      "comment": "Architecture Vision"
+     }, {
+			"id": "su",
+      "comment": "Business Architecture"
+     }, {
+			"id": "stats",
+      "comment": "Technology Architecture"
+     }]
+   }],
   "groupFlags": [{
     "id": "Netherlands",
     "flag": "Flag_of_the_Netherlands.svg"
