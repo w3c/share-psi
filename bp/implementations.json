@@ -1849,7 +1849,75 @@
 			"id": "stats",
       "comment": "Technology Architecture"
      }]
-   }],
+	}, {
+    "title": "Recommandations pour l'ouverture des données publiques",
+    "titleEN": "Recommendations for opening data",
+    "id": "luGuide",
+		"lang": "fr",
+		"spatial": "Luxembourg",
+    "group": "Luxembourg",
+    "flag": "Flag_of_Luxembourg.svg",
+		"landingPage": "http://www.list.lu/en/project/share-psi-20/",
+    "downloadURL": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf",
+		"format": "PDF",
+		"issued": "2016-07",
+		"creator": "Luxembourg Institute of Science and Technology",
+		"BPs": [{
+			"id": "cod",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=4"
+    }, {
+			"id": "zero",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=5"
+    }, {
+			"id": "cas",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=5"
+    }, {
+			"id": "ec",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=5"
+    }, {
+			"id": "dc",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=5"
+    }, {
+			"id": "eode",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=6"
+    }, {
+			"id": "ft",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=6"
+    }, {
+			"id": "ef",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=6"
+    }, {
+			"id": "sgd",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=6"
+    }, {
+			"id": "hm",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=7"
+    }, {
+			"id": "iwyap",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=7"
+    }, {
+			"id": "portal",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=7"
+    }, {
+			"id": "pomd",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=7"
+    }, {
+			"id": "odpp",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=7"
+    }, {
+			"id": "ptd",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=8"
+    }, {
+			"id": "eqa",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=8"
+    }, {
+			"id": "stats",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=8"
+    }, {
+			"id": "hls",
+			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=8"
+     }]
+  }],
   "groupFlags": [{
     "id": "Netherlands",
     "flag": "Flag_of_the_Netherlands.svg"
@@ -1892,6 +1960,12 @@
   }, {
     "flag": "Flag_of_Latvia.svg",
     "id": "Latvia"
+  }, {
+    "flag": "Flag_of_Lithuania.svg",
+    "id": "Lithuania"
+  }, {
+    "flag": "Flag_of_Luxembourg.svg",
+    "id": "Luxembourg"
   }, {
     "id": "Estonia",
     "flag": "Flag_of_Estonia.svg"
