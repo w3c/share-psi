@@ -74,6 +74,7 @@ Standards on [eInvoicing](http://ec.europa.eu/DocsRoom/documents/10472/attachmen
 | United Kingdom | [Cross platform character encoding profile](https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile) | ??? |
 | United Kingdom | [ODI Certificate for the Westminster City Council](https://certificates.theodi.org/en/datasets/5122/certificate) | Westminster City Council |
 | Serbia | [Validating RDF Data Cube Models](http://www.linkeddata.rs/sites/default/files/attachments/LOD2_Tool_RDF_DataCube%20_Validation_for_submission_final.pdf) |Valentina Janev, Mihailo Pupin Institute, University of Belgrade, Belgrade, Serbia |
+| Finland | [Valmistele ja avaa - Prepare and open](https://www.avoindata.fi/fi/opas/valmistele) Section 3.6. Tiedon viimeistely ja laatu - Finishing the data and data quality|Prime Ministers Office Finland |
 
 # References
 * David Corsar, Peter Edwards, [Enhancing Open Data with Provenance](http://www.dotrural.ac.uk/digitalfutures/sites/default/files/digitalfutures2012papers/Papers/Session2COpenData/Corsar%26Edwards_OpenData%26Provenance.pdf), dot.rural Digital Economy Hub
