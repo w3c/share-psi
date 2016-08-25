@@ -1917,7 +1917,73 @@
 			"id": "hls",
 			"url": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf#page=8"
      }]
-  }],
+  }, {
+    "title": "Building best practices for sharing public sector data",
+    "id": "odiGuide",
+		"lang": "en",
+		"spatial": "UK",
+    "group": "UK",
+    "flag": "Flag_of_the_United_Kingdom.svg",
+    "issued": "2016-08-25",
+    "homepage": "http://theodi.org/blog/building-best-practices-for-sharing-public-sector-data",
+		"format": "HTML",
+		"creator": "The Open Data Institute",
+		"BPs": [{
+			"id": "cas",
+      "comment": "Paragraph 5",
+      "url": "http://theodi.org/blog/building-best-practices-for-sharing-public-sector-data"
+     }, {
+			"id": "odpp",
+      "comment": "Paragraph 5",
+      "url": "http://theodi.org/blog/building-best-practices-for-sharing-public-sector-data"
+     }, {
+			"id": "su",
+      "comment": "Paragraph 5",
+      "url": "http://theodi.org/blog/building-best-practices-for-sharing-public-sector-data"
+     }, {
+			"id": "eode",
+      "comment": "Paragraph 5",
+      "url": "http://theodi.org/blog/building-best-practices-for-sharing-public-sector-data"
+     }]
+	}, {
+    "title": "Εφαρμογή των διατάξεων του Κεφαλαίου Α’ του ν. 4305/2014 (ΦΕΚ 237/Α΄ )",
+    "titleEN": "Guidelines on the implementation of open data policy and l. 4305/2014",
+    "id": "grGuide",
+		"lang": "el",
+		"spatial": "GR",
+    "group": "Greece",
+    "flag": "Flag_of_Greece.svg",
+    "issued": "2015-01-09",
+    "landingPage": "https://diavgeia.gov.gr/decision/view/ΩΩΡΜΧ-ΜΒΛ",
+		"format": "PDF",
+		"creator": "Ministry of Administrative Reform and Electronic Government",
+		"BPs": [{
+			"id": "odbm",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=1"
+     }, {
+			"id": "cas",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=4"
+     }, {
+			"id": "zero",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=4"
+     }, {
+			"id": "dc",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=3"
+     }, {
+			"id": "sgd",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=9"
+     }, {
+			"id": "ptd",
+      "url": "http://telematics.oasa.gr#main",
+      "comment": "OASA Telematics"
+     }, {
+			"id": "eqa",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=17"
+     }, {
+			"id": "ord",
+      "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=4"
+     }]
+	}],
   "groupFlags": [{
     "id": "Netherlands",
     "flag": "Flag_of_the_Netherlands.svg"
@@ -1987,5 +2053,8 @@
   }, {
     "id": "Lithuania",
     "flag": "Flag_of_Lithuania.svg"
+  }, {
+    "id": "Greece",
+    "flag": "Flag_of_Greece.svg"
   }]
 }
