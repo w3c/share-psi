@@ -1959,28 +1959,36 @@
 		"creator": "Ministry of Administrative Reform and Electronic Government",
 		"BPs": [{
 			"id": "odbm",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=1"
      }, {
 			"id": "cas",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=4"
      }, {
 			"id": "zero",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=4"
      }, {
 			"id": "dc",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=3"
      }, {
 			"id": "sgd",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=9"
      }, {
 			"id": "ptd",
+      "lang": "el",
       "url": "http://telematics.oasa.gr#main",
       "comment": "OASA Telematics"
      }, {
 			"id": "eqa",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=17"
      }, {
 			"id": "ord",
+      "lang": "el",
       "url": "https://diavgeia.gov.gr/doc/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B?inline=true#page=4"
      }]
 	}],
