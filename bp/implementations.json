@@ -10,6 +10,7 @@
 		"downloadURL": "http://ogp.gov.ro/wp-content/uploads/2015/03/GHID-DE-PUBLICARE-A-DATELOR-DESCHISE_martie-2015.pdf",
 		"format": "PDF",
 		"issued": "2015-03",
+    "temporal": "s",
 		"creator": "Cancelaria Prim-Ministrului",
 		"BPs": [{
 			"id": "cas",
@@ -47,6 +48,7 @@
     "downloadURL": "http://transparencia.gencat.cat/web/.content/pdfs/governobert/governobert_2_en.pdf",
 		"format": "PDF",
 		"issued": "2014-11",
+    "temporal": "b",
 		"creator": "Government of Catalonia",
 		"BPs": [{
 			"id": "dc",
@@ -90,6 +92,7 @@
 		"homepage": "http://opendata.gov.cz/",
 		"format": "HTML",
 		"issued": "2016",
+    "temporal": "s",
 		"creator": "Michal Kuban for the Czech government",
 		"BPs": [{
 			"id": "odbm",
@@ -159,6 +162,7 @@
     "homepage": "https://www.avoindata.fi/fi/opas",
 		"format": "HTML",
 		"issued": "2016-06-01",
+    "temporal": "s",
 		"creator": "National ICT Centre",
 		"BPs": [{
 			"id": "odbm",
@@ -242,6 +246,7 @@
     "homepage": "http://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data",
 		"format": "HTML",
 		"issued": "2016",
+    "temporal": "s",
 		"creator": "Difi",
 		"BPs": [{
 			"id": "cas",
@@ -289,6 +294,7 @@
     "homepage": "https://data.gov.ie/guide-for-publishers",
 		"format": "HTML",
 		"issued": "2015-07-01",
+    "temporal": "i",
 		"creator": "Government Reform Unit, Dept of Public Expenditure &amp; Reform",
 		"BPs": [{
 			"id": "odbm",
@@ -333,6 +339,7 @@
 		"homepage": "http://opendatahandbook.org/solutions/en/",
 		"format": "HTML",
 		"issued": "2016-07",
+    "temporal": "s",
 		"creator": "Open Knowledge",
 		"BPs": [{
 			"id": "ptd",
@@ -418,6 +425,7 @@
 		"homepage": "http://skl.se/naringslivarbetedigitalisering/digitalisering/digitaldelaktighetoppenhet/oppnadata/stodvagledning/ramverkoppnadata/ramverketforoppnadata.1184.html",
 		"format": "HTML",
 		"issued": "2015-08-27",
+    "temporal": "i",
 		"creator": "Sveriges Kommuner och Landsting",
 		"BPs": [{
 			"id": "hls",
@@ -435,6 +443,7 @@
 		"downloadURL": "http://www.digisam.se/images/docs/english/principles/Guiding%20principles%20for%20working%20with%20digital%20cultural%20heritage.pdf",
 		"format": "PDF",
 		"issued": "2014-04-03",
+    "temporal": "b",
 		"creator": "Digisam",
 		"BPs": [{
 			"id": "ef",
@@ -450,6 +459,7 @@
     "group": "Sweden",
     "flag": "Flag_of_Sweden.svg",
 		"homepage": "http://www.vidareutnyttjande.se",
+    "temporal": "i",
 		"format": "HTML",
 		"creator": "e-Delegationen",
 		"BPs": [{
@@ -483,6 +493,7 @@
 		"downloadURL": "http://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/OED_Verwaltung/ModerneVerwaltung/opengovernment.pdf?__blob=publicationFile",
 		"format": "PDF",
 		"issued": "2012-07",
+    "temporal": "b",
 		"creator": "Bundesministerium des Innern",
 		"BPs": [{
 			"id": "cas",
@@ -554,6 +565,7 @@
 		"downloadURL": "https://www.data.gv.at/wp-content/uploads/2013/08/Framework__for_Open_Government_Data_Platforms_1.1.pdf",
 		"format": "PDF",
 		"issued": "2013-08-23",
+    "temporal": "b",
 		"creator": "eGovernment Bund-Länder-Gemeinden",
 		"BPs": [{
 			"id": "cod",
@@ -594,6 +606,7 @@
 		"downloadURL": "https://www.digitaleagenda.wien/sites/default/files/open_government_vorgehensmodell_kdz_v2.5.pdf",
 		"format": "PDF",
 		"issued": "2013-05-10",
+    "temporal": "b",
 		"creator": "Staadt Wien, Zentrum f&uuml;r Verwaltungs Forschung",
 		"BPs": [{
 			"id": "cas",
@@ -655,6 +668,7 @@
     "group": "Spain",
     "flag": "Flag_of_Spain.svg",
     "date": "2012-05-08",
+    "temporal": "b",
 		"homepage": "http://red.gnoss.com/comunidad/OpenData/recurso/decalogo-open-data/ccf8c53a-fc6c-4e55-b7d3-68a0f9b67ace",
 		"format": "HTML",
 		"creator": "Open Data Spain Community Group",
@@ -684,6 +698,7 @@
     "flag": "Flag_of_Spain.svg",
 		"downloadURL": "http://datos.gob.es/sites/default/files/informe-opendata-sectorial.pdf",
 		"format": "PDF",
+    "temporal": "i",
 		"creator": "Ministerio de Industria Energia Y Tourismo, Ministerio de Hacienda y Administraciones P&uacute;blicas, red.es, aporta.es",
 		"BPs": [{
 			"id": "cas",
@@ -720,6 +735,7 @@
     "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"downloadURL": "http://datos.gob.es/sites/default/files/haciaunauniversidadabierta.pdf",
+    "temporal": "i",
 		"format": "PDF",
 		"creator": "CRUE-TIC",
 		"BPs": [{
@@ -748,6 +764,7 @@
     "group": "Spain",
     "flag": "Flag_of_Spain.svg",
 		"homepage": "http://www.datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1284197744824/_/_/_",
+    "temporal": "i",
 		"format": "HTML",
 		"creator": "Junta de Castilla y León",
 		"BPs": [{
@@ -774,6 +791,7 @@
 		"downloadURL": "http://administracionelectronica.gob.es/pae_Home/dms/pae_Home/documentos/Estrategias/pae_Interoperabilidad_Inicio/Guia_de_aplicacion_de_la_Norma_Tecnica_de_Interoperabilidad_de_Reutilizacion_de_recursos_de_informacion/Guia_aplicacion_Reutilizacion_recursos_de_informacion.pdf",
 		"format": "PDF",
     "issued": "2016-04",
+    "temporal": "s",
 		"creator": "Ministerio de Hacienda y Administraciones P&uacute;blicas",
 		"BPs": [{
 			"id": "cod",
@@ -834,6 +852,7 @@
 		"landingPage": "http://data.europa.eu/doi/10.2830/813167 ",
 		"format": "PDF",
     "issued": "2015",
+    "temporal": "s",
 		"creator": "ELI Task Force/Publications Office of the European Union",
 		"BPs": [{
 			"id": "eode",
@@ -855,6 +874,7 @@
 		"landingPage": "https://joinup.ec.europa.eu/asset/dcat-ap_implementation_guidelines/description",
 		"format": "HTML",
     "issued": "April 2016",
+    "temporal": "s",
 		"creator": "European Commission, DG DIGIT, ISA programme",
 		"BPs": [{
 			"id": "ft",
@@ -872,6 +892,7 @@
 		"homepage": "http://opendata.foi.hr/",
 		"format": "HTML",
     "issued": "2016",
+    "temporal": "s",
 		"creator": "The Faculty of Organization and Informatics (FoI) University of Zagreb/Office of the Information Commissioner",
 		"BPs": [{
 			"id": "cod",
@@ -929,6 +950,7 @@
 		"homepage": "http://www.gov.scot/Publications/2015/08/4093",
 		"format": "HTML",
     "issued": "2015-08-17",
+    "temporal": "s",
 		"creator": "The Scottish Government",
 		"BPs": [{
 			"id": "odbm",
@@ -1002,6 +1024,7 @@
 		"downloadURL": "http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf",
 		"format": "PDF",
     "issued": "2014",
+    "temporal": "b",
 		"creator": "Agenzia per l’Italia Digitale",
 		"BPs": [{
 			"id": "cas",
@@ -1064,6 +1087,7 @@
 		"homepage": "http://opendata.lumii.lv/vadlinijas/1.0/",
 		"format": "HTML",
     "issued": "2016-07-15",
+    "temporal": "s",
 		"creator": "Uldis Bojārs, LU Matemātikas un informātikas institūts",
 		"BPs": [{
 			"id": "dc",
@@ -1116,6 +1140,7 @@
     "flag": "Flag_of_Estonia.svg",
 		"downloadURL": "https://www.ria.ee/public/Arhitektuur/Avaandmete_loomise_juhend.pdf",
 		"format": "PDF",
+    "temporal": "s",
     "issued": "2015",
 		"creator": "Riigi Infosüsteemi Amet",
 		"BPs": [{
@@ -1150,6 +1175,7 @@
 		"downloadURL": "https://opendata.riik.ee/sites/default/files/manuals/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt",
 		"format": "ODT",
     "issued": "2014",
+    "temporal": "b",
 		"creator": "Vabariigi Valitsus Eesti",
 		"BPs": [{
 			"id": "cas",
@@ -1183,6 +1209,7 @@
 		"downloadURL": "http://w3c.hu/forditasok/Open-Data-Handbook/OpenDataHandbook_hu.pdf",
 		"format": "PDF",
     "issued": "2016-07-14 (original 2012-11-14)",
+    "temporal": "s",
 		"creator": "László Detvay, Éva Vir ág, András Micsik for W3C Hungarian Office",
 		"BPs": [{
 			"id": "cod",
@@ -1235,6 +1262,7 @@
 		"homepage": "http://www.linkeddata.rs/OpenDataHandbook/",
 		"format": "HTML",
     "issued": "2015-12-25",
+    "temporal": "s",
 		"creator": "Valentina Janev, Mihajlo Pupin Institute",
 		"BPs": [{
 			"id": "cas",
@@ -1353,6 +1381,7 @@
     "downloadURL": "http://mita.gov.mt/en/nationaldatastrategy/Documents/Data-Driven%20Public%20Administration%20(Malta).pdf",
 		"format": "PDF",
     "issued": "2016-07-21",
+    "temporal": "s",
 		"creator": "MITA",
 		"BPs": [{
 			"id": "cas",
@@ -1399,6 +1428,7 @@
     "downloadURL": "http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/OPSI_Prirocnik_1._izdaja_junij_2016.pdf",
 		"format": "PDF",
     "issued": "2016-06",
+    "temporal": "s",
 		"creator": "Ministry of Public Administration",
 		"BPs": [{
 			"id": "odbm",
@@ -1464,6 +1494,7 @@
     "downloadURL": "http://s3-eu-west-1.amazonaws.com/digitalbirmingham/files/Share-PSI-Best-Practices-Localised-Guide-v1.1.pdf",
 		"format": "PDF",
     "date": "2016-06-01",
+    "temporal": "s",
 		"creator": "Birmingham City Council",
 		"BPs": [{
 			"id": "cas",
@@ -1513,6 +1544,7 @@
 		"lang": "nl",
 		"spatial": "Netherlands",
     "group": "Netherlands",
+    "temporal": "i",
     "flag": "Flag_of_the_Netherlands.svg",
     "homepage": "https://data.overheid.nl/handreiking-bij-openen-van-data",
 		"format": "HTML",
@@ -1536,6 +1568,7 @@
     "group": "Finland",
     "flag": "Flag_of_Helsinki.svg",
     "homepage": "http://www.hri.fi/en/",
+    "temporal": "s",
 		"format": "HTML",
 		"creator": "Forum Virium Helsinki",
 		"BPs": [{
@@ -1587,6 +1620,7 @@
     "group": "Portugal",
     "flag": "Flag_of_Portugal.svg",
     "date": "Available soon",
+    "temporal": "s",
 		"format": "PDF",
 		"creator": "Agência para a Modernização Administrativa",
 		"BPs": [{
@@ -1624,6 +1658,7 @@
 		"lang": "nl",
 		"spatial": "Flanders",
     "group": "Belgium",
+    "temporal": "s",
     "flag": "Flag_of_Flanders.svg",
     "downloadURL": "https://overheid.vlaanderen.be/sites/default/files/Open_data_handboek_2016.pdf",
     "landingPage": "https://overheid.vlaanderen.be/open-data-handleiding",
@@ -1721,6 +1756,7 @@
     "flag": "Flag_of_Lithuania.svg",
     "homepage": "http://bit.ly/SharePSI2LT",
 		"format": "HTML",
+    "temporal": "s",
 		"creator": "UAB Linked Data",
 		"BPs": [{
 			"id": "odbm",
@@ -1815,6 +1851,7 @@
     "group": "International",
     "flag": "Flag_of_the_United_Nations.svg",
     "issued": "2016-07",
+    "temporal": "s",
     "landingPage": "https://www2.opengroup.org/ogsys/catalog/r160",
 		"format": "PDF",
 		"creator": "The Open Group",
@@ -1861,6 +1898,7 @@
     "downloadURL": "http://www.list.lu/fileadmin//files/projects/SHARE-PSI-2-0_Luxembourg_Guide_V01.pdf",
 		"format": "PDF",
 		"issued": "2016-07",
+    "temporal": "s",
 		"creator": "Luxembourg Institute of Science and Technology",
 		"BPs": [{
 			"id": "cod",
@@ -1924,6 +1962,7 @@
 		"spatial": "UK",
     "group": "UK",
     "flag": "Flag_of_the_United_Kingdom.svg",
+    "temporal": "s",
     "issued": "2016-08-25",
     "homepage": "http://theodi.org/blog/building-best-practices-for-sharing-public-sector-data",
 		"format": "HTML",
@@ -1954,6 +1993,7 @@
     "group": "Greece",
     "flag": "Flag_of_Greece.svg",
     "issued": "2015-01-09",
+    "temporal": "s",
     "landingPage": "https://diavgeia.gov.gr/decision/view/ΩΩΡΜΧ-ΜΒΛ",
 		"format": "PDF",
 		"creator": "Ministry of Administrative Reform and Electronic Government",
