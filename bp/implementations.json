@@ -1619,37 +1619,46 @@
 		"spatial": "Portugal",
     "group": "Portugal",
     "flag": "Flag_of_Portugal.svg",
-    "date": "Available soon",
+    "date": "November 2016",
     "prov": "s",
 		"format": "PDF",
 		"creator": "Agência para a Modernização Administrativa",
 		"BPs": [{
 			"id": "zero",
-      "comment": "Page 5"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=5",
+      "comment": "Disponibilizar Informação do Sector Público a custo zero"
      }, {
 			"id": "dc",
-      "comment": "Page 21"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=24",
+      "comment": "Critérios para os datasets "
      }, {
 			"id": "eode",
-      "comment": "Page 20"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=23",
+      "comment": "Estabelecer um ecossistema de Dados Abertos"
      }, {
 			"id": "ef",
-      "comment": "Page 26"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=29",
+      "comment": "Estabelecer canais de feedback para melhoria da qualidade"
      }, {
 			"id": "sgd",
-      "comment": "Page 35"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=39",
+      "comment": "Normas para dados geoespaciais"
      }, {
 			"id": "portal",
-      "comment": "Page 23"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=26",
+      "comment": "Criar um portal público de dados abertos"
      }, {
 			"id": "pomd",
-      "comment": "Page 19"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=21",
+      "comment": "Disponibilizar um inventário de dados geridos "
      }, {
 			"id": "odpp",
-      "comment": "Page 17"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=19",
+      "comment": "Desenvolver um plano de publicação de dados abertos "
      }, {
 			"id": "ptd",
-      "comment": "Page 13"
+      "url": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf#page=15",
+      "comment": "Abrir dados de transportes públicos"
      }]
  	}, {
     "title": "Open Data Handleiding",
