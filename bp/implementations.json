@@ -1617,6 +1617,7 @@
     "id": "ptGuide",
 		"lang": "pt",
 		"spatial": "Portugal",
+    "downloadURL": "http://www.dados.gov.pt/media/46120/guia_dados_abertos_ama.pdf",
     "group": "Portugal",
     "flag": "Flag_of_Portugal.svg",
     "date": "November 2016",
